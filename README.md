@@ -2,7 +2,7 @@
 
 Official implementation of the NORA-Net paper.
 
-**Authors:** _to be added_ · **Paper:** _link to be added_
+**Suyash Kumar, Kushel Rohilla, Kanishka Yadav, Aryan Yadav, Kartik**
 
 <p align="center"><img src="assets/architecture.png" width="900" alt="NORA-Net architecture"></p>
 
@@ -30,13 +30,32 @@ partial-field-of-view benchmark.
 
 ## Results
 
-BraTS 2020, patient-level split stratified by grade (258 / 37 / 74). Test set of 74 patients, last checkpoint, one
-sliding-window pass. The baseline is the same network, trained with matched sequence dropout.
+BraTS 2020, patient-level split stratified by grade (258 / 37 / 74). Test set of 74 patients, last checkpoint. The
+baseline is the same network, trained with matched sequence dropout. "TTA + post-proc.": 8-flip test-time augmentation
+with the ET gate tuned on the validation set.
 
 | Method | Dice WT | Dice TC | Dice ET | Mean Dice | HD95 mean (mm) | Params |
 |---|---|---|---|---|---|---|
 | Baseline | 90.58 | 84.65 | 77.12 | 84.12 | 11.36 | 7.90 M |
 | **NORA-Net** | 90.56 | 84.01 | 77.50 | 84.02 | 11.76 | 7.97 M |
+| Baseline + TTA + post-proc. | 90.78 | 85.41 | 78.62 | 84.94 | 10.51 | 7.90 M |
+| **NORA-Net** + TTA + post-proc. | 90.66 | 84.48 | 77.81 | 84.32 | 13.64 | 7.97 M |
+
+Mean Dice differences are not significant (paired Wilcoxon, p = 0.96 plain, p = 0.83 with TTA).
+
+**Missing and partially missing sequences** (plain inference, 74 test patients):
+
+| Setting | Baseline | NORA-Net | p |
+|---|---|---|---|
+| Mean Dice, average over the 14 incomplete sequence subsets | 70.62 | 70.94 | 0.51 |
+| Mean-Dice drop vs. full input (points) | 13.49 | 13.08 | |
+| Synthetic partial field of view: one sequence blanked over 30–60 % of the brain, mean Dice | 82.42 | 81.97 | 0.94 |
+| Mean-Dice drop vs. clean input (points) | 1.70 | 2.06 | 0.92 |
+
+Coalition training matches modality dropout at a matched rate but does not beat it: the gain we targeted before training
+(at least 1 point less drop) is not reached. Both models depend mainly on T1ce for the tumor core and enhancing tumor.
+
+<p align="center"><img src="assets/missing_sequences.png" width="900" alt="Mean Dice for every combination of available sequences"></p>
 
 What the probes add, from the same forward pass:
 
@@ -47,17 +66,57 @@ What the probes add, from the same forward pass:
 | Calibration error ECE (WT / TC / ET, %) | 0.81 / 0.73 / 0.48 |
 | HGG/LGG grading: balanced accuracy / AUROC (CAAP vs. GAP baseline) | 0.62 / 0.82 vs. 0.50 / 0.71 |
 
-Missing-sequence (15 subsets) and partial-field-of-view results are in the paper. Per-patient numbers for every table
-are in [`results/`](results).
+Per-patient numbers for every table are in [`results/`](results). The evaluation outputs (TTA, all 15 sequence subsets,
+partial field of view) are in [`results/v3/eval/`](results/v3/eval).
 
 <p align="center"><img src="assets/qualitative.png" width="900" alt="Qualitative results"></p>
 
 ## Installation
 
 ```bash
-git clone <repository-url> && cd NORA-Net
+git clone https://github.com/itsWindi/nora-net.git && cd nora-net
 pip install -r requirements.txt     # PyTorch >= 2.1 (CUDA recommended for training)
 ```
+
+## Pretrained models
+
+The two models evaluated in the paper are in [`checkpoints/`](checkpoints). Each is the last checkpoint after 15,000
+iterations (the paper's primary result), stored as weights plus training configuration (about 31 MB each; checksums in
+`checkpoints/SHA256SUMS`).
+
+| File | Model | Outputs |
+|---|---|---|
+| `checkpoints/nora_v3_last.pt` | NORA-Net | segmentation, uncertainty, voxel-wise Shapley maps per sequence, abnormality map, HGG/LGG probability |
+| `checkpoints/baseline_v3_last.pt` | baseline | segmentation, uncertainty, HGG/LGG probability |
+
+## Inference on your own scans
+
+The models expect BraTS-style input: co-registered, skull-stripped T1, T1ce, T2 and FLAIR at 1 mm isotropic
+resolution (the BraTS 240×240×155 space). Put each patient in its own folder; files are matched by their suffix:
+
+```
+my_cases/
+  patient01/  patient01_t1.nii.gz  patient01_t1ce.nii.gz  patient01_t2.nii.gz  patient01_flair.nii.gz  [patient01_seg.nii.gz]
+  patient02/  ...
+```
+
+```bash
+python infer.py --cases my_cases --ckpt checkpoints/nora_v3_last.pt --out runs/infer          # CPU is enough (~1 min/case)
+python infer.py --cases my_cases --ckpt checkpoints/nora_v3_last.pt checkpoints/baseline_v3_last.pt --tta   # both models, 8-flip TTA
+```
+
+For every case and model, `--out` receives:
+- `<case>_<model>_pred.nii.gz`: segmentation in the input space, BraTS labels (1 necrosis/non-enhancing, 2 edema, 4 enhancing).
+- `<case>_<model>_unc.npy`: whole-tumor uncertainty.
+- `<case>_nora_v3_maps.npz` (NORA-Net only): `phi`, the Shapley map of each sequence for each region, and `abn`, the abnormality map. Both are given on the cropped grid in `crop`.
+- `local_results.json`: Dice and HD95 if a `_seg` file is present, the HGG probability, and the runtime.
+- `comparison.png`: a quick visual check.
+
+A missing sequence file is allowed: that sequence is marked unavailable and the model runs on the rest. Blank regions
+inside a sequence (partial field of view) are detected automatically. `--drop t1ce flair` additionally evaluates each
+case with those sequences removed.
+
+The predictions are for research use only and are not a medical device.
 
 ## Data
 
@@ -95,11 +154,8 @@ python -m nora.evaluate --tasks eval,robust,pfov --only-last --tag nora_v3 \
     --last runs/nora_v3_last.pt --split runs/split.json --data-root <BraTS2020_TrainingData> --cache cache --out runs/eval
 ```
 
-Inference on raw NIfTI cases (CPU is enough), with predictions written in the original 240×240×155 space:
-
-```bash
-python infer.py --cases <folder of BraTS20_Training_XXX/> --ckpt runs/nora_v3_last.pt runs/base_v3_last.pt --out runs/infer
-```
+To evaluate the released models instead of your own training run, pass `--last checkpoints/nora_v3_last.pt` and
+`--split results/split.json`.
 
 Unit tests: `python tests/test_model.py`.
 
@@ -115,6 +171,7 @@ nora/
   train_loop.py  training driver (GPU augmentation, validation, checkpointing, testing)
   evaluate.py    post-training evaluation: TTA, 15 sequence subsets, partial field of view, exact Shapley
 infer.py         inference on raw BraTS NIfTI cases
+checkpoints/     the two trained models of the paper (last checkpoint, weights only)
 tests/           CPU unit tests
 legacy/v2/       the preliminary version discussed in the paper (training code)
 results/         per-patient test metrics, training curves and logs behind the paper's tables and figures
@@ -133,8 +190,9 @@ assets/          figures used in this README
 @article{noranet,
   title  = {NORA-Net: Robust and Explainable Multimodal Brain Tumor Segmentation via Shapley-Weighted Coalition
             Training and Normality-Referenced Probes},
-  author = {To be added},
-  year   = {2026}
+  author = {Kumar, Suyash and Rohilla, Kushel and Yadav, Kanishka and Yadav, Aryan and Kartik},
+  year   = {2026},
+  url    = {https://github.com/itsWindi/nora-net}
 }
 ```
 

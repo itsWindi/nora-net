@@ -1,0 +1,1110 @@
+{"id": "BraTS20_Training_292", "grade": 0, "subset": 1, "present": ["t1"], "dice_WT": 0.7846806961567905, "dice_TC": 0.8223968940936863, "dice_ET": 0.17969285339997582}
+{"id": "BraTS20_Training_292", "grade": 0, "subset": 2, "present": ["t1ce"], "dice_WT": 0.7578234787470346, "dice_TC": 0.7646171501158402, "dice_ET": 0.33139402235911475}
+{"id": "BraTS20_Training_292", "grade": 0, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.7752088514597536, "dice_TC": 0.7831638685268385, "dice_ET": 0.3585472761427677}
+{"id": "BraTS20_Training_292", "grade": 0, "subset": 4, "present": ["t2"], "dice_WT": 0.8989544398424083, "dice_TC": 0.6679978790852992, "dice_ET": 0.14600048207706345}
+{"id": "BraTS20_Training_292", "grade": 0, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.8898997208725318, "dice_TC": 0.8709356193445036, "dice_ET": 0.18291127709965385}
+{"id": "BraTS20_Training_292", "grade": 0, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.8769440392799477, "dice_TC": 0.822980737787882, "dice_ET": 0.4360135900339751}
+{"id": "BraTS20_Training_292", "grade": 0, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.8641123972369794, "dice_TC": 0.8180440430533218, "dice_ET": 0.4273516436601679}
+{"id": "BraTS20_Training_292", "grade": 0, "subset": 8, "present": ["flair"], "dice_WT": 0.8847897662870405, "dice_TC": 0.7739570189470337, "dice_ET": 0.20090827931529714}
+{"id": "BraTS20_Training_292", "grade": 0, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.923678341217127, "dice_TC": 0.8739040196535219, "dice_ET": 0.21770869117141875}
+{"id": "BraTS20_Training_292", "grade": 0, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.8953894092069642, "dice_TC": 0.8219984653690161, "dice_ET": 0.4006034423643969}
+{"id": "BraTS20_Training_292", "grade": 0, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.8876113455227379, "dice_TC": 0.8224709648774332, "dice_ET": 0.4175886929830823}
+{"id": "BraTS20_Training_292", "grade": 0, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.946156204491454, "dice_TC": 0.8125951118873262, "dice_ET": 0.1886058292342706}
+{"id": "BraTS20_Training_292", "grade": 0, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.933373980452054, "dice_TC": 0.8791332163127834, "dice_ET": 0.19834841988248372}
+{"id": "BraTS20_Training_292", "grade": 0, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9225719679676221, "dice_TC": 0.8537534355442233, "dice_ET": 0.5123420137416236}
+{"id": "BraTS20_Training_292", "grade": 0, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9119323181870597, "dice_TC": 0.8463603988026187, "dice_ET": 0.4976448227419222}
+{"id": "BraTS20_Training_335", "grade": 0, "subset": 1, "present": ["t1"], "dice_WT": 0.8694326738408072, "dice_TC": 0.7497734723194225, "dice_ET": 0.0}
+{"id": "BraTS20_Training_335", "grade": 0, "subset": 2, "present": ["t1ce"], "dice_WT": 0.7627537618863391, "dice_TC": 0.6076413919653975, "dice_ET": 0.0}
+{"id": "BraTS20_Training_335", "grade": 0, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.8334922569976705, "dice_TC": 0.688587616349656, "dice_ET": 0.0}
+{"id": "BraTS20_Training_335", "grade": 0, "subset": 4, "present": ["t2"], "dice_WT": 0.9102686225947799, "dice_TC": 0.7219997799090855, "dice_ET": 0.0}
+{"id": "BraTS20_Training_335", "grade": 0, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.9152320851313938, "dice_TC": 0.7767615389459102, "dice_ET": 0.0}
+{"id": "BraTS20_Training_335", "grade": 0, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.8858375298437092, "dice_TC": 0.7072630780894618, "dice_ET": 0.0}
+{"id": "BraTS20_Training_335", "grade": 0, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.8887570997002902, "dice_TC": 0.6998762515468556, "dice_ET": 0.0}
+{"id": "BraTS20_Training_335", "grade": 0, "subset": 8, "present": ["flair"], "dice_WT": 0.9104129060932011, "dice_TC": 0.7849204949222589, "dice_ET": 0.0}
+{"id": "BraTS20_Training_335", "grade": 0, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9188100629998418, "dice_TC": 0.8062725329419647, "dice_ET": 0.0}
+{"id": "BraTS20_Training_335", "grade": 0, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.8981073414005752, "dice_TC": 0.7325837467693816, "dice_ET": 0.0}
+{"id": "BraTS20_Training_335", "grade": 0, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9040064196660991, "dice_TC": 0.7381845223967975, "dice_ET": 0.0}
+{"id": "BraTS20_Training_335", "grade": 0, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9158415648835643, "dice_TC": 0.7815309885439269, "dice_ET": 0.0}
+{"id": "BraTS20_Training_335", "grade": 0, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9199024428012853, "dice_TC": 0.8035681256410687, "dice_ET": 0.0}
+{"id": "BraTS20_Training_335", "grade": 0, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.899891544869834, "dice_TC": 0.7062532223613464, "dice_ET": 0.0}
+{"id": "BraTS20_Training_335", "grade": 0, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9046512086827825, "dice_TC": 0.7173707927929288, "dice_ET": 0.0}
+{"id": "BraTS20_Training_287", "grade": 0, "subset": 1, "present": ["t1"], "dice_WT": 0.6970603797479334, "dice_TC": 0.598784355179704, "dice_ET": 0.6344923953350889}
+{"id": "BraTS20_Training_287", "grade": 0, "subset": 2, "present": ["t1ce"], "dice_WT": 0.5978289347901516, "dice_TC": 0.7538459269310757, "dice_ET": 0.8835312747426761}
+{"id": "BraTS20_Training_287", "grade": 0, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.718940613969944, "dice_TC": 0.8458144284890157, "dice_ET": 0.9021399562636676}
+{"id": "BraTS20_Training_287", "grade": 0, "subset": 4, "present": ["t2"], "dice_WT": 0.9412477286493035, "dice_TC": 0.7641099442869153, "dice_ET": 0.7906324786324787}
+{"id": "BraTS20_Training_287", "grade": 0, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.931223467356883, "dice_TC": 0.7359820800367589, "dice_ET": 0.7998981577463764}
+{"id": "BraTS20_Training_287", "grade": 0, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.927905054322154, "dice_TC": 0.8850586033684625, "dice_ET": 0.9120441903584673}
+{"id": "BraTS20_Training_287", "grade": 0, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.9185054254431188, "dice_TC": 0.889723345529238, "dice_ET": 0.9174795574795575}
+{"id": "BraTS20_Training_287", "grade": 0, "subset": 8, "present": ["flair"], "dice_WT": 0.9552564721691478, "dice_TC": 0.7606818614691131, "dice_ET": 0.5318413354335864}
+{"id": "BraTS20_Training_287", "grade": 0, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9675952363647691, "dice_TC": 0.764827456629298, "dice_ET": 0.7095338345864661}
+{"id": "BraTS20_Training_287", "grade": 0, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9650773235974401, "dice_TC": 0.9009101715664531, "dice_ET": 0.8923395033501004}
+{"id": "BraTS20_Training_287", "grade": 0, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9676131687242798, "dice_TC": 0.9134030857749542, "dice_ET": 0.9028449586385264}
+{"id": "BraTS20_Training_287", "grade": 0, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9618832446614678, "dice_TC": 0.7588934003999758, "dice_ET": 0.6936648525593142}
+{"id": "BraTS20_Training_287", "grade": 0, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.971127472210192, "dice_TC": 0.7592186929536328, "dice_ET": 0.7538704343905005}
+{"id": "BraTS20_Training_287", "grade": 0, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9690670677063483, "dice_TC": 0.911720888334546, "dice_ET": 0.9105507268971431}
+{"id": "BraTS20_Training_287", "grade": 0, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9706711091915016, "dice_TC": 0.9120086124240946, "dice_ET": 0.9160981866946534}
+{"id": "BraTS20_Training_328", "grade": 0, "subset": 1, "present": ["t1"], "dice_WT": 0.3701728959407863, "dice_TC": 0.2919790457668057, "dice_ET": 0.0}
+{"id": "BraTS20_Training_328", "grade": 0, "subset": 2, "present": ["t1ce"], "dice_WT": 0.6790192484908728, "dice_TC": 0.48630680873852744, "dice_ET": 0.2351994851994852}
+{"id": "BraTS20_Training_328", "grade": 0, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.5650408635222434, "dice_TC": 0.45470310393775676, "dice_ET": 0.0}
+{"id": "BraTS20_Training_328", "grade": 0, "subset": 4, "present": ["t2"], "dice_WT": 0.8164822947795027, "dice_TC": 0.6526548403199688, "dice_ET": 0.0}
+{"id": "BraTS20_Training_328", "grade": 0, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.7734294422744022, "dice_TC": 0.5987165940777774, "dice_ET": 0.0}
+{"id": "BraTS20_Training_328", "grade": 0, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.8295676332586883, "dice_TC": 0.6292277194109838, "dice_ET": 0.27155599603567887}
+{"id": "BraTS20_Training_328", "grade": 0, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.7375411628018892, "dice_TC": 0.5908312445780394, "dice_ET": 0.03893039716869839}
+{"id": "BraTS20_Training_328", "grade": 0, "subset": 8, "present": ["flair"], "dice_WT": 0.938784902678459, "dice_TC": 0.6751282641532044, "dice_ET": 0.006076729207504901}
+{"id": "BraTS20_Training_328", "grade": 0, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9268350032771852, "dice_TC": 0.6696873918870352, "dice_ET": 0.000587190851007312}
+{"id": "BraTS20_Training_328", "grade": 0, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9242508097779227, "dice_TC": 0.5952951296774781, "dice_ET": 0.22040112141470777}
+{"id": "BraTS20_Training_328", "grade": 0, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9116359184012286, "dice_TC": 0.6088523431728391, "dice_ET": 0.22096573561008706}
+{"id": "BraTS20_Training_328", "grade": 0, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9174433930830314, "dice_TC": 0.7091163409374917, "dice_ET": 0.0024465375932742456}
+{"id": "BraTS20_Training_328", "grade": 0, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9103108910861615, "dice_TC": 0.7051357422660635, "dice_ET": 7.097819786355624e-05}
+{"id": "BraTS20_Training_328", "grade": 0, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9173990853052296, "dice_TC": 0.6532845494332369, "dice_ET": 0.17428159701619056}
+{"id": "BraTS20_Training_328", "grade": 0, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9061659633560993, "dice_TC": 0.6670919796347703, "dice_ET": 0.17074606779375895}
+{"id": "BraTS20_Training_334", "grade": 0, "subset": 1, "present": ["t1"], "dice_WT": 0.8243808175740608, "dice_TC": 0.24153078060382696, "dice_ET": 0.24803553126067646}
+{"id": "BraTS20_Training_334", "grade": 0, "subset": 2, "present": ["t1ce"], "dice_WT": 0.7880509641873278, "dice_TC": 0.3208136030994404, "dice_ET": 0.7131315777981572}
+{"id": "BraTS20_Training_334", "grade": 0, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.8016063585659793, "dice_TC": 0.8331919832165335, "dice_ET": 0.832707509881423}
+{"id": "BraTS20_Training_334", "grade": 0, "subset": 4, "present": ["t2"], "dice_WT": 0.9218671767681307, "dice_TC": 0.24619887636035045, "dice_ET": 0.3219186511599286}
+{"id": "BraTS20_Training_334", "grade": 0, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.9287177821165618, "dice_TC": 0.23134026680386607, "dice_ET": 0.3050776682812761}
+{"id": "BraTS20_Training_334", "grade": 0, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.9218627751131068, "dice_TC": 0.8152429545182764, "dice_ET": 0.8602523355484927}
+{"id": "BraTS20_Training_334", "grade": 0, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.9224043415350035, "dice_TC": 0.8690228690228691, "dice_ET": 0.8588501758951376}
+{"id": "BraTS20_Training_334", "grade": 0, "subset": 8, "present": ["flair"], "dice_WT": 0.9547818893047101, "dice_TC": 0.2722409352090351, "dice_ET": 0.25872803578840564}
+{"id": "BraTS20_Training_334", "grade": 0, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.96460670106134, "dice_TC": 0.29454771348019304, "dice_ET": 0.2924389249537429}
+{"id": "BraTS20_Training_334", "grade": 0, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.962944660732292, "dice_TC": 0.889813424833798, "dice_ET": 0.8572531608918058}
+{"id": "BraTS20_Training_334", "grade": 0, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9635539206637422, "dice_TC": 0.876330019187162, "dice_ET": 0.8532816662630177}
+{"id": "BraTS20_Training_334", "grade": 0, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9603320582729714, "dice_TC": 0.27815192574660685, "dice_ET": 0.2779965727685416}
+{"id": "BraTS20_Training_334", "grade": 0, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9659938075646894, "dice_TC": 0.28226851161884237, "dice_ET": 0.29470541643818926}
+{"id": "BraTS20_Training_334", "grade": 0, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9648133333333333, "dice_TC": 0.8988221337174815, "dice_ET": 0.864285030169524}
+{"id": "BraTS20_Training_334", "grade": 0, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9668780737328113, "dice_TC": 0.8904885632746944, "dice_ET": 0.8623765224896902}
+{"id": "BraTS20_Training_264", "grade": 0, "subset": 1, "present": ["t1"], "dice_WT": 0.5773668657192256, "dice_TC": 0.5514957976607958, "dice_ET": 0.0}
+{"id": "BraTS20_Training_264", "grade": 0, "subset": 2, "present": ["t1ce"], "dice_WT": 0.4558919270833333, "dice_TC": 0.5721064399952208, "dice_ET": 0.0}
+{"id": "BraTS20_Training_264", "grade": 0, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.641650447644998, "dice_TC": 0.6812461404143864, "dice_ET": 0.0}
+{"id": "BraTS20_Training_264", "grade": 0, "subset": 4, "present": ["t2"], "dice_WT": 0.6557615894039736, "dice_TC": 0.5849265929514441, "dice_ET": 0.0}
+{"id": "BraTS20_Training_264", "grade": 0, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.7179269825494724, "dice_TC": 0.6401373084991419, "dice_ET": 0.0}
+{"id": "BraTS20_Training_264", "grade": 0, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.7233710043845052, "dice_TC": 0.7019801980198019, "dice_ET": 0.0}
+{"id": "BraTS20_Training_264", "grade": 0, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.7467503771543513, "dice_TC": 0.6887837778653703, "dice_ET": 0.0}
+{"id": "BraTS20_Training_264", "grade": 0, "subset": 8, "present": ["flair"], "dice_WT": 0.8106050619562352, "dice_TC": 0.767171066752522, "dice_ET": 0.0}
+{"id": "BraTS20_Training_264", "grade": 0, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.8713527851458885, "dice_TC": 0.830237957051654, "dice_ET": 0.0}
+{"id": "BraTS20_Training_264", "grade": 0, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.8055128163158412, "dice_TC": 0.8288399412628488, "dice_ET": 1.0}
+{"id": "BraTS20_Training_264", "grade": 0, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.8617323393681221, "dice_TC": 0.8480843840931135, "dice_ET": 1.0}
+{"id": "BraTS20_Training_264", "grade": 0, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.8537481542529446, "dice_TC": 0.8224289187189515, "dice_ET": 0.0}
+{"id": "BraTS20_Training_264", "grade": 0, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.8999177706715396, "dice_TC": 0.8496612967495873, "dice_ET": 0.0}
+{"id": "BraTS20_Training_264", "grade": 0, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.8988702623906706, "dice_TC": 0.8493949807953332, "dice_ET": 1.0}
+{"id": "BraTS20_Training_264", "grade": 0, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.8971374993105731, "dice_TC": 0.8488762895636672, "dice_ET": 1.0}
+{"id": "BraTS20_Training_314", "grade": 0, "subset": 1, "present": ["t1"], "dice_WT": 0.6337131091283459, "dice_TC": 0.16875786025562284, "dice_ET": 0.15433541515000573}
+{"id": "BraTS20_Training_314", "grade": 0, "subset": 2, "present": ["t1ce"], "dice_WT": 0.6724591323604041, "dice_TC": 0.6004356473150867, "dice_ET": 0.8481572481572481}
+{"id": "BraTS20_Training_314", "grade": 0, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.6879165926954052, "dice_TC": 0.5063471913678197, "dice_ET": 0.8305084745762712}
+{"id": "BraTS20_Training_314", "grade": 0, "subset": 4, "present": ["t2"], "dice_WT": 0.6716763600802923, "dice_TC": 0.22113069440431474, "dice_ET": 0.19085185466130622}
+{"id": "BraTS20_Training_314", "grade": 0, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.6849998021604083, "dice_TC": 0.19786157737410898, "dice_ET": 0.18666366805352524}
+{"id": "BraTS20_Training_314", "grade": 0, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.7320921701917058, "dice_TC": 0.730390055722246, "dice_ET": 0.8496066635816751}
+{"id": "BraTS20_Training_314", "grade": 0, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.7348551360842844, "dice_TC": 0.6100843351875113, "dice_ET": 0.8394004282655246}
+{"id": "BraTS20_Training_314", "grade": 0, "subset": 8, "present": ["flair"], "dice_WT": 0.7960399846212995, "dice_TC": 0.31427994344576854, "dice_ET": 0.3438503092460659}
+{"id": "BraTS20_Training_314", "grade": 0, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.8025362984745451, "dice_TC": 0.26405172413793104, "dice_ET": 0.25985947416137806}
+{"id": "BraTS20_Training_314", "grade": 0, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.8047385454619471, "dice_TC": 0.7341235184029944, "dice_ET": 0.8412866737363026}
+{"id": "BraTS20_Training_314", "grade": 0, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.8146415302050365, "dice_TC": 0.5962032825786039, "dice_ET": 0.8274672187715666}
+{"id": "BraTS20_Training_314", "grade": 0, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.8398152236676744, "dice_TC": 0.3040475566045983, "dice_ET": 0.2900159349414803}
+{"id": "BraTS20_Training_314", "grade": 0, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.8258117958913187, "dice_TC": 0.260659138050242, "dice_ET": 0.24729241877256317}
+{"id": "BraTS20_Training_314", "grade": 0, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.8573347613774575, "dice_TC": 0.7564622696186392, "dice_ET": 0.8708885616102111}
+{"id": "BraTS20_Training_314", "grade": 0, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.8474600661965751, "dice_TC": 0.6157765616153992, "dice_ET": 0.8509677419354839}
+{"id": "BraTS20_Training_271", "grade": 0, "subset": 1, "present": ["t1"], "dice_WT": 0.8392096086788067, "dice_TC": 0.8409277541560978, "dice_ET": 0.0018509498295177789}
+{"id": "BraTS20_Training_271", "grade": 0, "subset": 2, "present": ["t1ce"], "dice_WT": 0.39943878954607975, "dice_TC": 0.5041457645621604, "dice_ET": 0.007205352547606794}
+{"id": "BraTS20_Training_271", "grade": 0, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.7381666595040612, "dice_TC": 0.837356067316209, "dice_ET": 0.038819026790595956}
+{"id": "BraTS20_Training_271", "grade": 0, "subset": 4, "present": ["t2"], "dice_WT": 0.9132616214983466, "dice_TC": 0.7771059643369543, "dice_ET": 0.025802909689816085}
+{"id": "BraTS20_Training_271", "grade": 0, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.924078173543747, "dice_TC": 0.8017637904201971, "dice_ET": 0.014385729356478373}
+{"id": "BraTS20_Training_271", "grade": 0, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.918174793218916, "dice_TC": 0.8210130408801716, "dice_ET": 0.11661166116611661}
+{"id": "BraTS20_Training_271", "grade": 0, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.9180181633563301, "dice_TC": 0.8296839146907629, "dice_ET": 0.10065288356909684}
+{"id": "BraTS20_Training_271", "grade": 0, "subset": 8, "present": ["flair"], "dice_WT": 0.9520080262606782, "dice_TC": 0.7903614457831325, "dice_ET": 0.0029792516403617663}
+{"id": "BraTS20_Training_271", "grade": 0, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9530341578555329, "dice_TC": 0.8494034777156977, "dice_ET": 0.001687692502426058}
+{"id": "BraTS20_Training_271", "grade": 0, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9519854860147662, "dice_TC": 0.8410044360585319, "dice_ET": 0.06481481481481481}
+{"id": "BraTS20_Training_271", "grade": 0, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9493551736518812, "dice_TC": 0.8647239621834028, "dice_ET": 0.0660377358490566}
+{"id": "BraTS20_Training_271", "grade": 0, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.96021394298072, "dice_TC": 0.7749280529964343, "dice_ET": 0.01065052950075643}
+{"id": "BraTS20_Training_271", "grade": 0, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9638319612870886, "dice_TC": 0.8331443619472587, "dice_ET": 0.008839613454191325}
+{"id": "BraTS20_Training_271", "grade": 0, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9640687178491701, "dice_TC": 0.8630643400310303, "dice_ET": 0.08129619101762366}
+{"id": "BraTS20_Training_271", "grade": 0, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9629658272511963, "dice_TC": 0.8650834329973233, "dice_ET": 0.07771428571428571}
+{"id": "BraTS20_Training_273", "grade": 0, "subset": 1, "present": ["t1"], "dice_WT": 0.776402327618873, "dice_TC": 0.769254590498397, "dice_ET": 0.0}
+{"id": "BraTS20_Training_273", "grade": 0, "subset": 2, "present": ["t1ce"], "dice_WT": 0.7545280193633082, "dice_TC": 0.8341073224243533, "dice_ET": 0.24356372182459138}
+{"id": "BraTS20_Training_273", "grade": 0, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.778722574498387, "dice_TC": 0.852007363253857, "dice_ET": 0.23482256330042037}
+{"id": "BraTS20_Training_273", "grade": 0, "subset": 4, "present": ["t2"], "dice_WT": 0.8312771316790825, "dice_TC": 0.7732993291567334, "dice_ET": 0.010899105424074284}
+{"id": "BraTS20_Training_273", "grade": 0, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.837260666149999, "dice_TC": 0.8405110721579853, "dice_ET": 0.015047097414908664}
+{"id": "BraTS20_Training_273", "grade": 0, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.8410096139933799, "dice_TC": 0.8640056040139594, "dice_ET": 0.17619442143054403}
+{"id": "BraTS20_Training_273", "grade": 0, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.8366917129774312, "dice_TC": 0.8768751932392044, "dice_ET": 0.18207762557077625}
+{"id": "BraTS20_Training_273", "grade": 0, "subset": 8, "present": ["flair"], "dice_WT": 0.893532514347004, "dice_TC": 0.7559040344441098, "dice_ET": 0.009874878546925502}
+{"id": "BraTS20_Training_273", "grade": 0, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.8915308413861933, "dice_TC": 0.8295022566616012, "dice_ET": 0.007888805409466567}
+{"id": "BraTS20_Training_273", "grade": 0, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.8922996561964566, "dice_TC": 0.8216778510585113, "dice_ET": 0.2323066525055518}
+{"id": "BraTS20_Training_273", "grade": 0, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.88935366099767, "dice_TC": 0.861885499962092, "dice_ET": 0.22238599723629665}
+{"id": "BraTS20_Training_273", "grade": 0, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9068271207112507, "dice_TC": 0.7827676240208877, "dice_ET": 0.01156141807529021}
+{"id": "BraTS20_Training_273", "grade": 0, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9097754852084242, "dice_TC": 0.85586649898587, "dice_ET": 0.013130979874628836}
+{"id": "BraTS20_Training_273", "grade": 0, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9085646131785958, "dice_TC": 0.8568237359770182, "dice_ET": 0.1854014598540146}
+{"id": "BraTS20_Training_273", "grade": 0, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9073767370382638, "dice_TC": 0.8830831705561838, "dice_ET": 0.18196282635423447}
+{"id": "BraTS20_Training_277", "grade": 0, "subset": 1, "present": ["t1"], "dice_WT": 0.0, "dice_TC": 0.0, "dice_ET": 0.0}
+{"id": "BraTS20_Training_277", "grade": 0, "subset": 2, "present": ["t1ce"], "dice_WT": 0.34261971058820134, "dice_TC": 0.22126836813611755, "dice_ET": 0.32308227921550425}
+{"id": "BraTS20_Training_277", "grade": 0, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.3451586910783831, "dice_TC": 0.22047790450583285, "dice_ET": 0.3748271092669433}
+{"id": "BraTS20_Training_277", "grade": 0, "subset": 4, "present": ["t2"], "dice_WT": 0.6176503016270535, "dice_TC": 0.23540652440966378, "dice_ET": 0.0546408971605822}
+{"id": "BraTS20_Training_277", "grade": 0, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.6234044278647312, "dice_TC": 0.26572908956328645, "dice_ET": 0.13744659280179594}
+{"id": "BraTS20_Training_277", "grade": 0, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.7110652100243671, "dice_TC": 0.40493964975929675, "dice_ET": 0.6255051638976201}
+{"id": "BraTS20_Training_277", "grade": 0, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.6868764646802812, "dice_TC": 0.46275323018025205, "dice_ET": 0.5899554990464081}
+{"id": "BraTS20_Training_277", "grade": 0, "subset": 8, "present": ["flair"], "dice_WT": 0.5519564140663695, "dice_TC": 0.181840983195385, "dice_ET": 0.1328570719849184}
+{"id": "BraTS20_Training_277", "grade": 0, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.5817286294988576, "dice_TC": 0.27546614793376667, "dice_ET": 0.16901069840125016}
+{"id": "BraTS20_Training_277", "grade": 0, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.6467792387168412, "dice_TC": 0.46497380088673923, "dice_ET": 0.828486646884273}
+{"id": "BraTS20_Training_277", "grade": 0, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.6407652015486222, "dice_TC": 0.451034810879391, "dice_ET": 0.67236328125}
+{"id": "BraTS20_Training_277", "grade": 0, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.7171313343854112, "dice_TC": 0.32303955586398336, "dice_ET": 0.1518987341772152}
+{"id": "BraTS20_Training_277", "grade": 0, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.6889293943666815, "dice_TC": 0.3408375695957395, "dice_ET": 0.18115339870367292}
+{"id": "BraTS20_Training_277", "grade": 0, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.7633683769340924, "dice_TC": 0.651892260484146, "dice_ET": 0.805111821086262}
+{"id": "BraTS20_Training_277", "grade": 0, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.7179320268603536, "dice_TC": 0.55703125, "dice_ET": 0.7676880222841226}
+{"id": "BraTS20_Training_288", "grade": 0, "subset": 1, "present": ["t1"], "dice_WT": 0.7576246114979972, "dice_TC": 0.5513151748005072, "dice_ET": 0.3871557954441497}
+{"id": "BraTS20_Training_288", "grade": 0, "subset": 2, "present": ["t1ce"], "dice_WT": 0.7502279374950591, "dice_TC": 0.6632687447346252, "dice_ET": 0.8703135986499789}
+{"id": "BraTS20_Training_288", "grade": 0, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.7809155539002508, "dice_TC": 0.6857240088480517, "dice_ET": 0.8647256438969765}
+{"id": "BraTS20_Training_288", "grade": 0, "subset": 4, "present": ["t2"], "dice_WT": 0.8512561264239117, "dice_TC": 0.5233266257148909, "dice_ET": 0.3249510615871104}
+{"id": "BraTS20_Training_288", "grade": 0, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.8617693123831658, "dice_TC": 0.5988672634848305, "dice_ET": 0.4178278297384997}
+{"id": "BraTS20_Training_288", "grade": 0, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.8782578875171467, "dice_TC": 0.7797020070050592, "dice_ET": 0.868401025959018}
+{"id": "BraTS20_Training_288", "grade": 0, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.8665799578843058, "dice_TC": 0.7711551853093648, "dice_ET": 0.8599485228290062}
+{"id": "BraTS20_Training_288", "grade": 0, "subset": 8, "present": ["flair"], "dice_WT": 0.6220975942135332, "dice_TC": 0.45019422863485015, "dice_ET": 0.25125628140703515}
+{"id": "BraTS20_Training_288", "grade": 0, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.8176545223853544, "dice_TC": 0.4562365034664781, "dice_ET": 0.21867193719289577}
+{"id": "BraTS20_Training_288", "grade": 0, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.8432120761493245, "dice_TC": 0.7071446189262518, "dice_ET": 0.8497292288088963}
+{"id": "BraTS20_Training_288", "grade": 0, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.8892885486802693, "dice_TC": 0.6965368999283497, "dice_ET": 0.8512165935380933}
+{"id": "BraTS20_Training_288", "grade": 0, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.8104314574100698, "dice_TC": 0.5517076131752979, "dice_ET": 0.3239519120805556}
+{"id": "BraTS20_Training_288", "grade": 0, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.8591863374306538, "dice_TC": 0.49842983926022466, "dice_ET": 0.27009732752594506}
+{"id": "BraTS20_Training_288", "grade": 0, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.8833633486138398, "dice_TC": 0.7451868629671574, "dice_ET": 0.8418988290938455}
+{"id": "BraTS20_Training_288", "grade": 0, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9020509796212568, "dice_TC": 0.732524476260659, "dice_ET": 0.8413246242049117}
+{"id": "BraTS20_Training_291", "grade": 0, "subset": 1, "present": ["t1"], "dice_WT": 0.8297977746032162, "dice_TC": 0.7285562010715723, "dice_ET": 0.004083036059655306}
+{"id": "BraTS20_Training_291", "grade": 0, "subset": 2, "present": ["t1ce"], "dice_WT": 0.7411246436900751, "dice_TC": 0.6645595148172865, "dice_ET": 0.04835924006908463}
+{"id": "BraTS20_Training_291", "grade": 0, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.7855306054966646, "dice_TC": 0.7070584056426651, "dice_ET": 0.04227405247813411}
+{"id": "BraTS20_Training_291", "grade": 0, "subset": 4, "present": ["t2"], "dice_WT": 0.9435385140516555, "dice_TC": 0.6325743532992115, "dice_ET": 0.0049518569463548835}
+{"id": "BraTS20_Training_291", "grade": 0, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.9517745413208212, "dice_TC": 0.6425577815481073, "dice_ET": 0.005382746629828991}
+{"id": "BraTS20_Training_291", "grade": 0, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.9445837153838758, "dice_TC": 0.690922776219786, "dice_ET": 0.03535353535353535}
+{"id": "BraTS20_Training_291", "grade": 0, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.941821929530122, "dice_TC": 0.6987965198490864, "dice_ET": 0.036050470658922494}
+{"id": "BraTS20_Training_291", "grade": 0, "subset": 8, "present": ["flair"], "dice_WT": 0.942718768467936, "dice_TC": 0.6835061609631191, "dice_ET": 0.0030476718211570764}
+{"id": "BraTS20_Training_291", "grade": 0, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9419210686330338, "dice_TC": 0.706728008676728, "dice_ET": 0.003424163783160323}
+{"id": "BraTS20_Training_291", "grade": 0, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9334749191430008, "dice_TC": 0.6973879935566911, "dice_ET": 0.04009296920395119}
+{"id": "BraTS20_Training_291", "grade": 0, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9346932724811599, "dice_TC": 0.7083875864018869, "dice_ET": 0.03678508440413202}
+{"id": "BraTS20_Training_291", "grade": 0, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.955592820028342, "dice_TC": 0.6821465363054346, "dice_ET": 0.00452663752079545}
+{"id": "BraTS20_Training_291", "grade": 0, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9569925823154635, "dice_TC": 0.6903465517133351, "dice_ET": 0.00440849422369172}
+{"id": "BraTS20_Training_291", "grade": 0, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9500386188746174, "dice_TC": 0.7253458458053555, "dice_ET": 0.03291510510021183}
+{"id": "BraTS20_Training_291", "grade": 0, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9509828469772954, "dice_TC": 0.7236471044225552, "dice_ET": 0.030058131291648943}
+{"id": "BraTS20_Training_295", "grade": 0, "subset": 1, "present": ["t1"], "dice_WT": 0.4974613167384252, "dice_TC": 0.4245236122618061, "dice_ET": 0.035408432147562584}
+{"id": "BraTS20_Training_295", "grade": 0, "subset": 2, "present": ["t1ce"], "dice_WT": 0.47165634246546184, "dice_TC": 0.43224160799918376, "dice_ET": 0.01639861242510249}
+{"id": "BraTS20_Training_295", "grade": 0, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.5197908887229276, "dice_TC": 0.44779090947600286, "dice_ET": 0.09550173010380623}
+{"id": "BraTS20_Training_295", "grade": 0, "subset": 4, "present": ["t2"], "dice_WT": 0.8969050958391772, "dice_TC": 0.657853957812846, "dice_ET": 0.05532895903528994}
+{"id": "BraTS20_Training_295", "grade": 0, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.9183934607818797, "dice_TC": 0.7537779060121903, "dice_ET": 0.06838453914767097}
+{"id": "BraTS20_Training_295", "grade": 0, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.8980327376482955, "dice_TC": 0.7249348511863942, "dice_ET": 0.0}
+{"id": "BraTS20_Training_295", "grade": 0, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.9053105548933916, "dice_TC": 0.7523853768359361, "dice_ET": 0.0}
+{"id": "BraTS20_Training_295", "grade": 0, "subset": 8, "present": ["flair"], "dice_WT": 0.8682942442077561, "dice_TC": 0.5822706916002872, "dice_ET": 0.058025152533931014}
+{"id": "BraTS20_Training_295", "grade": 0, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.894077365775479, "dice_TC": 0.7399459839431721, "dice_ET": 0.07765393751141969}
+{"id": "BraTS20_Training_295", "grade": 0, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.8948012232415902, "dice_TC": 0.742657186464654, "dice_ET": 0.0}
+{"id": "BraTS20_Training_295", "grade": 0, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9068763995849036, "dice_TC": 0.8067981401314734, "dice_ET": 0.0}
+{"id": "BraTS20_Training_295", "grade": 0, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.8985035783994795, "dice_TC": 0.6253392818144947, "dice_ET": 0.05236450010796804}
+{"id": "BraTS20_Training_295", "grade": 0, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9148500230733734, "dice_TC": 0.7436215191718909, "dice_ET": 0.06819984139571768}
+{"id": "BraTS20_Training_295", "grade": 0, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9146419966526274, "dice_TC": 0.7320448056226664, "dice_ET": 0.27945205479452057}
+{"id": "BraTS20_Training_295", "grade": 0, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9225222546414169, "dice_TC": 0.7953133040414836, "dice_ET": 0.0}
+{"id": "BraTS20_Training_263", "grade": 0, "subset": 1, "present": ["t1"], "dice_WT": 0.6277966428244587, "dice_TC": 0.22034022583956592, "dice_ET": 0.0}
+{"id": "BraTS20_Training_263", "grade": 0, "subset": 2, "present": ["t1ce"], "dice_WT": 0.44424206815511164, "dice_TC": 0.1412208772614864, "dice_ET": 0.0}
+{"id": "BraTS20_Training_263", "grade": 0, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.5396914498489058, "dice_TC": 0.19089408289165002, "dice_ET": 0.0}
+{"id": "BraTS20_Training_263", "grade": 0, "subset": 4, "present": ["t2"], "dice_WT": 0.8588321596244132, "dice_TC": 0.21227518887477434, "dice_ET": 0.0}
+{"id": "BraTS20_Training_263", "grade": 0, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.8387600034669055, "dice_TC": 0.2184594451583642, "dice_ET": 0.0}
+{"id": "BraTS20_Training_263", "grade": 0, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.6957844970785368, "dice_TC": 0.22768684574620826, "dice_ET": 0.0}
+{"id": "BraTS20_Training_263", "grade": 0, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.75082453404239, "dice_TC": 0.2649059871350816, "dice_ET": 0.0}
+{"id": "BraTS20_Training_263", "grade": 0, "subset": 8, "present": ["flair"], "dice_WT": 0.8470797509635339, "dice_TC": 0.3429693637077769, "dice_ET": 0.0}
+{"id": "BraTS20_Training_263", "grade": 0, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.8481336038889943, "dice_TC": 0.36221021439776885, "dice_ET": 0.0}
+{"id": "BraTS20_Training_263", "grade": 0, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.8384408489764065, "dice_TC": 0.36645268171464074, "dice_ET": 0.0}
+{"id": "BraTS20_Training_263", "grade": 0, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.8406096835425106, "dice_TC": 0.3734652114597544, "dice_ET": 0.0}
+{"id": "BraTS20_Training_263", "grade": 0, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.8761904761904762, "dice_TC": 0.2984165651644336, "dice_ET": 0.0}
+{"id": "BraTS20_Training_263", "grade": 0, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.8684360272553511, "dice_TC": 0.2991470105322174, "dice_ET": 0.0}
+{"id": "BraTS20_Training_263", "grade": 0, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.8619890949373462, "dice_TC": 0.3319575021019644, "dice_ET": 0.0}
+{"id": "BraTS20_Training_263", "grade": 0, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.8591850290235943, "dice_TC": 0.3392346776754525, "dice_ET": 0.0}
+{"id": "BraTS20_Training_274", "grade": 0, "subset": 1, "present": ["t1"], "dice_WT": 0.39014437294823295, "dice_TC": 0.26686615513431156, "dice_ET": 0.19771011139752429}
+{"id": "BraTS20_Training_274", "grade": 0, "subset": 2, "present": ["t1ce"], "dice_WT": 0.7082936470140013, "dice_TC": 0.5870641040395903, "dice_ET": 0.658670657263083}
+{"id": "BraTS20_Training_274", "grade": 0, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.73923388129573, "dice_TC": 0.5643507615010206, "dice_ET": 0.6693287445581834}
+{"id": "BraTS20_Training_274", "grade": 0, "subset": 4, "present": ["t2"], "dice_WT": 0.6407518423565375, "dice_TC": 0.47851529289787453, "dice_ET": 0.3856446770957474}
+{"id": "BraTS20_Training_274", "grade": 0, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.6514968480102197, "dice_TC": 0.4728141738772147, "dice_ET": 0.3504876383865172}
+{"id": "BraTS20_Training_274", "grade": 0, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.8248483611426761, "dice_TC": 0.6085044713328794, "dice_ET": 0.7146819893005746}
+{"id": "BraTS20_Training_274", "grade": 0, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.8229808920311154, "dice_TC": 0.5986106800617645, "dice_ET": 0.708073829216735}
+{"id": "BraTS20_Training_274", "grade": 0, "subset": 8, "present": ["flair"], "dice_WT": 0.829214958694092, "dice_TC": 0.5563552186892448, "dice_ET": 0.40906199836447893}
+{"id": "BraTS20_Training_274", "grade": 0, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.8238796962848469, "dice_TC": 0.5661341753157434, "dice_ET": 0.4040411684576964}
+{"id": "BraTS20_Training_274", "grade": 0, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.8514762997285827, "dice_TC": 0.6153450285316421, "dice_ET": 0.7243083701684766}
+{"id": "BraTS20_Training_274", "grade": 0, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.8527314986033562, "dice_TC": 0.6137724550898204, "dice_ET": 0.7231883239703017}
+{"id": "BraTS20_Training_274", "grade": 0, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.7998128240640419, "dice_TC": 0.6145056340263451, "dice_ET": 0.4969259574468085}
+{"id": "BraTS20_Training_274", "grade": 0, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.8062963461051288, "dice_TC": 0.626964315787504, "dice_ET": 0.48015510014608903}
+{"id": "BraTS20_Training_274", "grade": 0, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.8467658959450367, "dice_TC": 0.6284517605805289, "dice_ET": 0.7370253493775358}
+{"id": "BraTS20_Training_274", "grade": 0, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.8474399132491399, "dice_TC": 0.6300079378154533, "dice_ET": 0.7376394321810165}
+{"id": "BraTS20_Training_238", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.22587563034422276, "dice_TC": 0.24669488247206864, "dice_ET": 0.13602239470670568}
+{"id": "BraTS20_Training_238", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.4813748524658879, "dice_TC": 0.47174751332314113, "dice_ET": 0.5146995217557865}
+{"id": "BraTS20_Training_238", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.49468833621337066, "dice_TC": 0.5005396374368136, "dice_ET": 0.5174766778803712}
+{"id": "BraTS20_Training_238", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.8605245691311486, "dice_TC": 0.929031853467777, "dice_ET": 0.5156211154388001}
+{"id": "BraTS20_Training_238", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.8818849083375544, "dice_TC": 0.8989363151631862, "dice_ET": 0.5005207772150989}
+{"id": "BraTS20_Training_238", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.8874006251538732, "dice_TC": 0.8940115836270568, "dice_ET": 0.49114835732924456}
+{"id": "BraTS20_Training_238", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.9036944853989204, "dice_TC": 0.876264906016304, "dice_ET": 0.5128405776481468}
+{"id": "BraTS20_Training_238", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.8360474444000621, "dice_TC": 0.7832877253951243, "dice_ET": 0.36761069469129126}
+{"id": "BraTS20_Training_238", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.838626309508897, "dice_TC": 0.7891372655557207, "dice_ET": 0.3287207221078158}
+{"id": "BraTS20_Training_238", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.8689478487822843, "dice_TC": 0.8375925383746706, "dice_ET": 0.5846343749285665}
+{"id": "BraTS20_Training_238", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.8757606846320994, "dice_TC": 0.8523745437115151, "dice_ET": 0.5725803435870972}
+{"id": "BraTS20_Training_238", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.8469829276582395, "dice_TC": 0.9057091502056851, "dice_ET": 0.6334653667616248}
+{"id": "BraTS20_Training_238", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.8482321961801585, "dice_TC": 0.8954510961410435, "dice_ET": 0.5688047593293672}
+{"id": "BraTS20_Training_238", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.8658280855108719, "dice_TC": 0.9501314580082508, "dice_ET": 0.5259487433930798}
+{"id": "BraTS20_Training_238", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.8695148007085634, "dice_TC": 0.9546802058132007, "dice_ET": 0.5114006296020351}
+{"id": "BraTS20_Training_030", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.4308657146489258, "dice_TC": 0.0, "dice_ET": 0.0}
+{"id": "BraTS20_Training_030", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.47251757659925353, "dice_TC": 0.4016528430697368, "dice_ET": 0.7329151535160119}
+{"id": "BraTS20_Training_030", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.5381882169808129, "dice_TC": 0.3997568758547333, "dice_ET": 0.7244444444444444}
+{"id": "BraTS20_Training_030", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.6199818667203949, "dice_TC": 0.0, "dice_ET": 0.0}
+{"id": "BraTS20_Training_030", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.5969084714244643, "dice_TC": 0.0, "dice_ET": 0.0}
+{"id": "BraTS20_Training_030", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.6939228083419836, "dice_TC": 0.8009615384615385, "dice_ET": 0.7641542202153525}
+{"id": "BraTS20_Training_030", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.6716375274728478, "dice_TC": 0.6456808918135835, "dice_ET": 0.7480216576426489}
+{"id": "BraTS20_Training_030", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.7946710192557955, "dice_TC": 0.13850676072898296, "dice_ET": 0.16249938836424133}
+{"id": "BraTS20_Training_030", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.8473455044717653, "dice_TC": 0.20170879157650523, "dice_ET": 0.18921928215876344}
+{"id": "BraTS20_Training_030", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.8446498291849682, "dice_TC": 0.7877822984845805, "dice_ET": 0.7710860267825843}
+{"id": "BraTS20_Training_030", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.8364275298470163, "dice_TC": 0.7503804317195514, "dice_ET": 0.7638169861480342}
+{"id": "BraTS20_Training_030", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.8523711109869854, "dice_TC": 0.18760533804879398, "dice_ET": 0.10659062612956344}
+{"id": "BraTS20_Training_030", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.8477891416068793, "dice_TC": 0.08423922303629239, "dice_ET": 0.037077033837293015}
+{"id": "BraTS20_Training_030", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.8421413104752672, "dice_TC": 0.8030293850348379, "dice_ET": 0.7674434978525664}
+{"id": "BraTS20_Training_030", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.8355217911142618, "dice_TC": 0.7944910179640718, "dice_ET": 0.7602290182935344}
+{"id": "BraTS20_Training_185", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.7694459545764036, "dice_TC": 0.7373710561723705, "dice_ET": 0.4675456819434434}
+{"id": "BraTS20_Training_185", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.6663181485945525, "dice_TC": 0.9370480861606917, "dice_ET": 0.9052075040930051}
+{"id": "BraTS20_Training_185", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.7645093003513824, "dice_TC": 0.945137682832562, "dice_ET": 0.9099785841582676}
+{"id": "BraTS20_Training_185", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.8806596054186744, "dice_TC": 0.7676025045445365, "dice_ET": 0.48991405274370087}
+{"id": "BraTS20_Training_185", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.880316793744326, "dice_TC": 0.798607501838686, "dice_ET": 0.5028795453509398}
+{"id": "BraTS20_Training_185", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.8992449254974018, "dice_TC": 0.9464253210638083, "dice_ET": 0.9089248004313379}
+{"id": "BraTS20_Training_185", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.8968214430911766, "dice_TC": 0.9437541669192072, "dice_ET": 0.9065291269435506}
+{"id": "BraTS20_Training_185", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.9100502371530409, "dice_TC": 0.7387734395550712, "dice_ET": 0.4964825350217165}
+{"id": "BraTS20_Training_185", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9371378079708066, "dice_TC": 0.8096147566128665, "dice_ET": 0.5289379668723612}
+{"id": "BraTS20_Training_185", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9470051393146044, "dice_TC": 0.9457643947760362, "dice_ET": 0.9135098232572252}
+{"id": "BraTS20_Training_185", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9429844711936047, "dice_TC": 0.9457111615098007, "dice_ET": 0.912644376899696}
+{"id": "BraTS20_Training_185", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9330652144853919, "dice_TC": 0.7915433144817167, "dice_ET": 0.5328170143248272}
+{"id": "BraTS20_Training_185", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.935250553709856, "dice_TC": 0.8235015496771935, "dice_ET": 0.5288898159587954}
+{"id": "BraTS20_Training_185", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9431814875802238, "dice_TC": 0.9401535890416577, "dice_ET": 0.9027989977388009}
+{"id": "BraTS20_Training_185", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9423256515409022, "dice_TC": 0.939968081188362, "dice_ET": 0.9020687966703391}
+{"id": "BraTS20_Training_251", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.8867056606437808, "dice_TC": 0.4505882090318548, "dice_ET": 0.46419711558676363}
+{"id": "BraTS20_Training_251", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.8532417289220918, "dice_TC": 0.8434989003331664, "dice_ET": 0.9279332583870777}
+{"id": "BraTS20_Training_251", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.8974346158171617, "dice_TC": 0.8710663470630924, "dice_ET": 0.9294955489614243}
+{"id": "BraTS20_Training_251", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.9276367630554694, "dice_TC": 0.5775245658710634, "dice_ET": 0.5940937759741847}
+{"id": "BraTS20_Training_251", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.9408798674204581, "dice_TC": 0.5164675390353373, "dice_ET": 0.5428195612345563}
+{"id": "BraTS20_Training_251", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.928049515391955, "dice_TC": 0.8794692550870475, "dice_ET": 0.9369141715393883}
+{"id": "BraTS20_Training_251", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.9448031762641962, "dice_TC": 0.8717022988755736, "dice_ET": 0.936072250752612}
+{"id": "BraTS20_Training_251", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.9533823916221655, "dice_TC": 0.5058094739113015, "dice_ET": 0.5136764937726628}
+{"id": "BraTS20_Training_251", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9635979745058775, "dice_TC": 0.5108017544337592, "dice_ET": 0.5544122507436378}
+{"id": "BraTS20_Training_251", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9639804901990858, "dice_TC": 0.9421107425610731, "dice_ET": 0.9346897615375489}
+{"id": "BraTS20_Training_251", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9685411413322887, "dice_TC": 0.9371656800513516, "dice_ET": 0.9341787978922926}
+{"id": "BraTS20_Training_251", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9644333254201591, "dice_TC": 0.6100778240704348, "dice_ET": 0.6108972673153704}
+{"id": "BraTS20_Training_251", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9684941551476515, "dice_TC": 0.5582324198002975, "dice_ET": 0.5775593382881803}
+{"id": "BraTS20_Training_251", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9618330031903537, "dice_TC": 0.9365844393266697, "dice_ET": 0.9414332055440873}
+{"id": "BraTS20_Training_251", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9662125172997078, "dice_TC": 0.9181706837982113, "dice_ET": 0.93904790152751}
+{"id": "BraTS20_Training_003", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.5688776780231999, "dice_TC": 0.4084291187739464, "dice_ET": 0.3794400867291627}
+{"id": "BraTS20_Training_003", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.33520360247549785, "dice_TC": 0.8776464795667159, "dice_ET": 0.8536088930640363}
+{"id": "BraTS20_Training_003", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.4310421912134974, "dice_TC": 0.8885270541082164, "dice_ET": 0.847758405977584}
+{"id": "BraTS20_Training_003", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.686779006755252, "dice_TC": 0.40943666629919523, "dice_ET": 0.47086991221069435}
+{"id": "BraTS20_Training_003", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.7016205910390848, "dice_TC": 0.5400537439174958, "dice_ET": 0.5087840165346194}
+{"id": "BraTS20_Training_003", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.7103238625749367, "dice_TC": 0.8822578639811016, "dice_ET": 0.8394689197344599}
+{"id": "BraTS20_Training_003", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.709406973958868, "dice_TC": 0.8915753683415187, "dice_ET": 0.8405224787363305}
+{"id": "BraTS20_Training_003", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.6519866545344253, "dice_TC": 0.20199778024417314, "dice_ET": 0.28340456207198395}
+{"id": "BraTS20_Training_003", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.7424643188012728, "dice_TC": 0.3435859655585229, "dice_ET": 0.4321041214750542}
+{"id": "BraTS20_Training_003", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.7608063468759705, "dice_TC": 0.8396840148698885, "dice_ET": 0.8340740740740741}
+{"id": "BraTS20_Training_003", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.7744437640334763, "dice_TC": 0.8614097968936678, "dice_ET": 0.8341260404280618}
+{"id": "BraTS20_Training_003", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.7358193712219493, "dice_TC": 0.27139996359002366, "dice_ET": 0.38753334634654174}
+{"id": "BraTS20_Training_003", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.7478607464392228, "dice_TC": 0.457023831403541, "dice_ET": 0.54300878477306}
+{"id": "BraTS20_Training_003", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.7648760514486626, "dice_TC": 0.8586475164572113, "dice_ET": 0.8273127753303965}
+{"id": "BraTS20_Training_003", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.7720355627520652, "dice_TC": 0.8714076960545543, "dice_ET": 0.831897831897832}
+{"id": "BraTS20_Training_221", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.7800369685767098, "dice_TC": 0.5306889623436386, "dice_ET": 0.4271109684178509}
+{"id": "BraTS20_Training_221", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.8607381428994243, "dice_TC": 0.8163352834348593, "dice_ET": 0.7652789608177172}
+{"id": "BraTS20_Training_221", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.8875066164479541, "dice_TC": 0.8720084051487982, "dice_ET": 0.8046875669744276}
+{"id": "BraTS20_Training_221", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.9079001612140997, "dice_TC": 0.7655802701431356, "dice_ET": 0.640661430343117}
+{"id": "BraTS20_Training_221", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.938955620098565, "dice_TC": 0.7730034856102903, "dice_ET": 0.6442067560462671}
+{"id": "BraTS20_Training_221", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.9183902190524708, "dice_TC": 0.8590420510550199, "dice_ET": 0.8096570250408507}
+{"id": "BraTS20_Training_221", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.938493766736281, "dice_TC": 0.9028243479134486, "dice_ET": 0.8529452894288746}
+{"id": "BraTS20_Training_221", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.9507401356502797, "dice_TC": 0.7758790454227451, "dice_ET": 0.5773722502192945}
+{"id": "BraTS20_Training_221", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9576605095737161, "dice_TC": 0.7801045207031393, "dice_ET": 0.6218691269434478}
+{"id": "BraTS20_Training_221", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9563468028034957, "dice_TC": 0.8860245263677436, "dice_ET": 0.8246733566810345}
+{"id": "BraTS20_Training_221", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9609834247335017, "dice_TC": 0.9075543376720433, "dice_ET": 0.8553072031297316}
+{"id": "BraTS20_Training_221", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9525587045302847, "dice_TC": 0.8112193242016291, "dice_ET": 0.6782533270152837}
+{"id": "BraTS20_Training_221", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9630346610547876, "dice_TC": 0.84913357583106, "dice_ET": 0.7095090471972668}
+{"id": "BraTS20_Training_221", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.958825138072052, "dice_TC": 0.9070447783490396, "dice_ET": 0.8619540688722515}
+{"id": "BraTS20_Training_221", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.962474575210439, "dice_TC": 0.9151820534089361, "dice_ET": 0.8760403611941258}
+{"id": "BraTS20_Training_142", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.22747941867031235, "dice_TC": 0.0, "dice_ET": 0.0}
+{"id": "BraTS20_Training_142", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.2550827124636949, "dice_TC": 0.2606917167055615, "dice_ET": 0.6600914808461978}
+{"id": "BraTS20_Training_142", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.3143726471043268, "dice_TC": 0.27521758536041063, "dice_ET": 0.6526747226344428}
+{"id": "BraTS20_Training_142", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.8853698174534185, "dice_TC": 0.6778608720191901, "dice_ET": 0.6278932749768538}
+{"id": "BraTS20_Training_142", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.8365569272976681, "dice_TC": 0.6474693407412426, "dice_ET": 0.6296035655641566}
+{"id": "BraTS20_Training_142", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.8466163845538911, "dice_TC": 0.8775928069082168, "dice_ET": 0.9095653919502158}
+{"id": "BraTS20_Training_142", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.7804753711846046, "dice_TC": 0.8644172319619416, "dice_ET": 0.9074147501982553}
+{"id": "BraTS20_Training_142", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.8954203193772508, "dice_TC": 0.6614309388284458, "dice_ET": 0.6666666666666666}
+{"id": "BraTS20_Training_142", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.903713537633219, "dice_TC": 0.6785875961973744, "dice_ET": 0.687315897527448}
+{"id": "BraTS20_Training_142", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.8999348345521686, "dice_TC": 0.8816370684215271, "dice_ET": 0.918631955079122}
+{"id": "BraTS20_Training_142", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9042877906976744, "dice_TC": 0.8864073226544622, "dice_ET": 0.9161554192229039}
+{"id": "BraTS20_Training_142", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9176804239122323, "dice_TC": 0.634101642348629, "dice_ET": 0.5976879560547675}
+{"id": "BraTS20_Training_142", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9187612208258528, "dice_TC": 0.6560901475276151, "dice_ET": 0.6372839937161808}
+{"id": "BraTS20_Training_142", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9190972093540377, "dice_TC": 0.8927354755547371, "dice_ET": 0.9137735654682189}
+{"id": "BraTS20_Training_142", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9182683405547531, "dice_TC": 0.8875346260387812, "dice_ET": 0.9116469984607491}
+{"id": "BraTS20_Training_065", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.6713468288695484, "dice_TC": 0.2492002132764596, "dice_ET": 0.22511446498219434}
+{"id": "BraTS20_Training_065", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.6346629015178257, "dice_TC": 0.6568297523513676, "dice_ET": 0.878001921229587}
+{"id": "BraTS20_Training_065", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.7149189189189189, "dice_TC": 0.6882055988985774, "dice_ET": 0.8852086377658711}
+{"id": "BraTS20_Training_065", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.6471220930232559, "dice_TC": 0.30833028418099767, "dice_ET": 0.28601541400434755}
+{"id": "BraTS20_Training_065", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.6911368015414259, "dice_TC": 0.2979922228394572, "dice_ET": 0.29772125750435735}
+{"id": "BraTS20_Training_065", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.7459848782236179, "dice_TC": 0.8655156746933212, "dice_ET": 0.8743686868686869}
+{"id": "BraTS20_Training_065", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.7737282964442226, "dice_TC": 0.8623246264400594, "dice_ET": 0.8787733588883565}
+{"id": "BraTS20_Training_065", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.5597487339306584, "dice_TC": 0.2136276869449747, "dice_ET": 0.2184014869888476}
+{"id": "BraTS20_Training_065", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.6716292723841476, "dice_TC": 0.2956943033523482, "dice_ET": 0.29909850118909354}
+{"id": "BraTS20_Training_065", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.6645020448767547, "dice_TC": 0.8645539641366866, "dice_ET": 0.8668227946916471}
+{"id": "BraTS20_Training_065", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.714297062421556, "dice_TC": 0.8640688717716357, "dice_ET": 0.8710033076074972}
+{"id": "BraTS20_Training_065", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.6752779309744275, "dice_TC": 0.28658832307405335, "dice_ET": 0.29325350629192304}
+{"id": "BraTS20_Training_065", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.7115544728483765, "dice_TC": 0.317949591280654, "dice_ET": 0.3551767500349308}
+{"id": "BraTS20_Training_065", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.7017929232961292, "dice_TC": 0.8740723826920881, "dice_ET": 0.8629094861046421}
+{"id": "BraTS20_Training_065", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.7473519538506664, "dice_TC": 0.8763502643070559, "dice_ET": 0.8661120703186312}
+{"id": "BraTS20_Training_344", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.768352694626271, "dice_TC": 0.4297148291125627, "dice_ET": 0.2904181061834591}
+{"id": "BraTS20_Training_344", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.5868857263816069, "dice_TC": 0.2791296323279421, "dice_ET": 0.35358180948526435}
+{"id": "BraTS20_Training_344", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.7169701196500027, "dice_TC": 0.39659528595330873, "dice_ET": 0.5443978043267679}
+{"id": "BraTS20_Training_344", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.8942613981762918, "dice_TC": 0.5693588107350218, "dice_ET": 0.44762920220772706}
+{"id": "BraTS20_Training_344", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.8835457400703018, "dice_TC": 0.5980164799921054, "dice_ET": 0.4344071359581842}
+{"id": "BraTS20_Training_344", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.8593605982435292, "dice_TC": 0.5569760604787904, "dice_ET": 0.6494297563504406}
+{"id": "BraTS20_Training_344", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.8736883015934707, "dice_TC": 0.5712246456196262, "dice_ET": 0.691446303291959}
+{"id": "BraTS20_Training_344", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.895765225623225, "dice_TC": 0.4517844697942266, "dice_ET": 0.4215463041631266}
+{"id": "BraTS20_Training_344", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.927459884953073, "dice_TC": 0.5784741844335988, "dice_ET": 0.4378705571938538}
+{"id": "BraTS20_Training_344", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9184854143071414, "dice_TC": 0.7007409096090277, "dice_ET": 0.6867511600526353}
+{"id": "BraTS20_Training_344", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9247332864610399, "dice_TC": 0.6770961358191855, "dice_ET": 0.6854427764770693}
+{"id": "BraTS20_Training_344", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9230662992096326, "dice_TC": 0.5406642478370081, "dice_ET": 0.4287769784172662}
+{"id": "BraTS20_Training_344", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9334601226993865, "dice_TC": 0.6399162980230915, "dice_ET": 0.4552128296417656}
+{"id": "BraTS20_Training_344", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9361602273015551, "dice_TC": 0.7256457612569258, "dice_ET": 0.6900170357751277}
+{"id": "BraTS20_Training_344", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9355118547596907, "dice_TC": 0.7270797462084582, "dice_ET": 0.6860850172332229}
+{"id": "BraTS20_Training_120", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.8497494615780657, "dice_TC": 0.8177390372308565, "dice_ET": 0.44808110065170165}
+{"id": "BraTS20_Training_120", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.902857046581274, "dice_TC": 0.9418293777567586, "dice_ET": 0.8730104977988487}
+{"id": "BraTS20_Training_120", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.9049505575592086, "dice_TC": 0.9434572181890418, "dice_ET": 0.8820530588002375}
+{"id": "BraTS20_Training_120", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.9527465380771855, "dice_TC": 0.8284415912916816, "dice_ET": 0.4401617555568124}
+{"id": "BraTS20_Training_120", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.9356300232098671, "dice_TC": 0.8347435283810204, "dice_ET": 0.46745200342395954}
+{"id": "BraTS20_Training_120", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.955860228788782, "dice_TC": 0.9416142281171107, "dice_ET": 0.8636046819044872}
+{"id": "BraTS20_Training_120", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.9493798827544383, "dice_TC": 0.9360442163442558, "dice_ET": 0.856798981599352}
+{"id": "BraTS20_Training_120", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.9730254081969364, "dice_TC": 0.8111717028349457, "dice_ET": 0.4532007059201027}
+{"id": "BraTS20_Training_120", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9632009025454602, "dice_TC": 0.8804425687629996, "dice_ET": 0.4838883403644197}
+{"id": "BraTS20_Training_120", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9772351458523977, "dice_TC": 0.9110624809868209, "dice_ET": 0.8643483400650183}
+{"id": "BraTS20_Training_120", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9750108830659494, "dice_TC": 0.9535441054475067, "dice_ET": 0.862640913333812}
+{"id": "BraTS20_Training_120", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9704635314219865, "dice_TC": 0.8452781900098639, "dice_ET": 0.45941537351136774}
+{"id": "BraTS20_Training_120", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9590962943846849, "dice_TC": 0.8703351556928928, "dice_ET": 0.48545035923326585}
+{"id": "BraTS20_Training_120", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9716110263029596, "dice_TC": 0.9182820583931833, "dice_ET": 0.839048558387045}
+{"id": "BraTS20_Training_120", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9724387483461655, "dice_TC": 0.9440833666170437, "dice_ET": 0.8372207768906432}
+{"id": "BraTS20_Training_249", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.8329141414610152, "dice_TC": 0.8132965609460532, "dice_ET": 0.7282332010400986}
+{"id": "BraTS20_Training_249", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.7833179819771914, "dice_TC": 0.8751234790989038, "dice_ET": 0.8939433056229669}
+{"id": "BraTS20_Training_249", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.7957952035342379, "dice_TC": 0.8888780033799505, "dice_ET": 0.9011283127787982}
+{"id": "BraTS20_Training_249", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.7987088464438301, "dice_TC": 0.7011353283341509, "dice_ET": 0.5453107459944893}
+{"id": "BraTS20_Training_249", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.8953450928476868, "dice_TC": 0.7486319273370066, "dice_ET": 0.6796728485101062}
+{"id": "BraTS20_Training_249", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.8821077142642529, "dice_TC": 0.9337114839205883, "dice_ET": 0.9109829026054427}
+{"id": "BraTS20_Training_249", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.8797009472514642, "dice_TC": 0.9302777238298698, "dice_ET": 0.9098367163310133}
+{"id": "BraTS20_Training_249", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.864732697100941, "dice_TC": 0.8154905410395082, "dice_ET": 0.7804784505489237}
+{"id": "BraTS20_Training_249", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.8735216601174108, "dice_TC": 0.806737876225121, "dice_ET": 0.7407490155556176}
+{"id": "BraTS20_Training_249", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.8761596731636735, "dice_TC": 0.9019039528259457, "dice_ET": 0.9033973097985007}
+{"id": "BraTS20_Training_249", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.8693194297227872, "dice_TC": 0.9001756587202008, "dice_ET": 0.9006817270418394}
+{"id": "BraTS20_Training_249", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.881233374545727, "dice_TC": 0.7847461056038842, "dice_ET": 0.6545272213865357}
+{"id": "BraTS20_Training_249", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.8834030053101345, "dice_TC": 0.8015513352865544, "dice_ET": 0.7073402723048074}
+{"id": "BraTS20_Training_249", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.8802034584148775, "dice_TC": 0.9190919387403358, "dice_ET": 0.9056997033909627}
+{"id": "BraTS20_Training_249", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.8784257140958583, "dice_TC": 0.9175673336136324, "dice_ET": 0.9017948031074203}
+{"id": "BraTS20_Training_098", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.8695246282590299, "dice_TC": 0.3856609318557522, "dice_ET": 0.2452347483834692}
+{"id": "BraTS20_Training_098", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.7921240092667219, "dice_TC": 0.7480489251973894, "dice_ET": 0.7432458975412032}
+{"id": "BraTS20_Training_098", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.8679084416979929, "dice_TC": 0.8396386835345337, "dice_ET": 0.821707545695985}
+{"id": "BraTS20_Training_098", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.9491252534642927, "dice_TC": 0.6604455204887952, "dice_ET": 0.5873489932885906}
+{"id": "BraTS20_Training_098", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.9417072634335868, "dice_TC": 0.5568774684284948, "dice_ET": 0.5077915753591429}
+{"id": "BraTS20_Training_098", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.9391166510555515, "dice_TC": 0.8960068872964829, "dice_ET": 0.8545968094840275}
+{"id": "BraTS20_Training_098", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.9405630437089811, "dice_TC": 0.894741416775315, "dice_ET": 0.8643181726786504}
+{"id": "BraTS20_Training_098", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.97056926714916, "dice_TC": 0.8240724428314717, "dice_ET": 0.6822077235055546}
+{"id": "BraTS20_Training_098", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9715730275580854, "dice_TC": 0.6577604859360422, "dice_ET": 0.6255193936691931}
+{"id": "BraTS20_Training_098", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9767964305400992, "dice_TC": 0.9513378275071235, "dice_ET": 0.9053950722175022}
+{"id": "BraTS20_Training_098", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9752579329165565, "dice_TC": 0.951787038817615, "dice_ET": 0.8951850914916941}
+{"id": "BraTS20_Training_098", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9713668471501443, "dice_TC": 0.8086900576733071, "dice_ET": 0.6794794724000142}
+{"id": "BraTS20_Training_098", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9710071834576013, "dice_TC": 0.690201339594117, "dice_ET": 0.6472496449174981}
+{"id": "BraTS20_Training_098", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9764065963325277, "dice_TC": 0.956861459443215, "dice_ET": 0.8903279369032794}
+{"id": "BraTS20_Training_098", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9753256270567738, "dice_TC": 0.9541025088833853, "dice_ET": 0.886575706050678}
+{"id": "BraTS20_Training_099", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.0, "dice_TC": 0.0, "dice_ET": 0.0}
+{"id": "BraTS20_Training_099", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.2109290092596618, "dice_TC": 0.7097701149425287, "dice_ET": 0.8632388947184331}
+{"id": "BraTS20_Training_099", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.15096973258889215, "dice_TC": 0.5315731573157316, "dice_ET": 0.8361621059923796}
+{"id": "BraTS20_Training_099", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.5000549833217257, "dice_TC": 0.17462638076673165, "dice_ET": 0.13117990130103185}
+{"id": "BraTS20_Training_099", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.1880274391748507, "dice_TC": 0.0, "dice_ET": 0.0}
+{"id": "BraTS20_Training_099", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.5186035220903032, "dice_TC": 0.5817319098457888, "dice_ET": 0.7466504263093788}
+{"id": "BraTS20_Training_099", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.43769280018625223, "dice_TC": 0.6508907205530444, "dice_ET": 0.7858747993579455}
+{"id": "BraTS20_Training_099", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.693807950548865, "dice_TC": 0.2814167879670063, "dice_ET": 0.34650166587339365}
+{"id": "BraTS20_Training_099", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.7020955574182732, "dice_TC": 0.30200349603334675, "dice_ET": 0.37359154929577465}
+{"id": "BraTS20_Training_099", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.6938254533850982, "dice_TC": 0.5414634146341464, "dice_ET": 0.7346570397111913}
+{"id": "BraTS20_Training_099", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.6928258672953856, "dice_TC": 0.5843503230437904, "dice_ET": 0.7458766035430666}
+{"id": "BraTS20_Training_099", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.6804000184340292, "dice_TC": 0.237228176048278, "dice_ET": 0.24922195941740322}
+{"id": "BraTS20_Training_099", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.6901641671003453, "dice_TC": 0.23422448316917416, "dice_ET": 0.24266092108806894}
+{"id": "BraTS20_Training_099", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.7023769345740322, "dice_TC": 0.5074004586199709, "dice_ET": 0.6821748878923767}
+{"id": "BraTS20_Training_099", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.7046659046035539, "dice_TC": 0.5452914798206278, "dice_ET": 0.7014710124026536}
+{"id": "BraTS20_Training_356", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.7539282928262433, "dice_TC": 0.7274423654345281, "dice_ET": 0.47003020577685484}
+{"id": "BraTS20_Training_356", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.5970331531296815, "dice_TC": 0.80795859563834, "dice_ET": 0.8666490752512773}
+{"id": "BraTS20_Training_356", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.7614590529193707, "dice_TC": 0.9242072095961565, "dice_ET": 0.891496316534127}
+{"id": "BraTS20_Training_356", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.837509768168794, "dice_TC": 0.8477930476960388, "dice_ET": 0.6588743432184522}
+{"id": "BraTS20_Training_356", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.8239997607202321, "dice_TC": 0.8921817980758597, "dice_ET": 0.6913591140720479}
+{"id": "BraTS20_Training_356", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.7986833701793171, "dice_TC": 0.9359703105181566, "dice_ET": 0.8950572894194353}
+{"id": "BraTS20_Training_356", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.8159802224969097, "dice_TC": 0.9347508016063257, "dice_ET": 0.8956926880289056}
+{"id": "BraTS20_Training_356", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.6101290322580645, "dice_TC": 0.5641530442640675, "dice_ET": 0.24483589491660235}
+{"id": "BraTS20_Training_356", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.7462741575104231, "dice_TC": 0.6970628992462906, "dice_ET": 0.36123160065419896}
+{"id": "BraTS20_Training_356", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.7752779033510682, "dice_TC": 0.9206234023253896, "dice_ET": 0.8673100743187449}
+{"id": "BraTS20_Training_356", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.8623008508279303, "dice_TC": 0.9336945812807882, "dice_ET": 0.8824805410233507}
+{"id": "BraTS20_Training_356", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.813106272903643, "dice_TC": 0.7988782602711445, "dice_ET": 0.5531710365047704}
+{"id": "BraTS20_Training_356", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.8811734909244406, "dice_TC": 0.8492215002539538, "dice_ET": 0.5735902709015666}
+{"id": "BraTS20_Training_356", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.860583386917636, "dice_TC": 0.9391190651303424, "dice_ET": 0.8844058605507326}
+{"id": "BraTS20_Training_356", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.897408680803932, "dice_TC": 0.944053677352436, "dice_ET": 0.8935697352824971}
+{"id": "BraTS20_Training_153", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.8245071586009365, "dice_TC": 0.2660547759832907, "dice_ET": 0.2986879868798688}
+{"id": "BraTS20_Training_153", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.7375393197265804, "dice_TC": 0.9618948799599271, "dice_ET": 0.9651510383889238}
+{"id": "BraTS20_Training_153", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.805423264151275, "dice_TC": 0.946636219919199, "dice_ET": 0.9615204860570182}
+{"id": "BraTS20_Training_153", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.9127804042880212, "dice_TC": 0.5065399239543726, "dice_ET": 0.5444161563338609}
+{"id": "BraTS20_Training_153", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.9326669723843649, "dice_TC": 0.5072040498442367, "dice_ET": 0.5805354015511633}
+{"id": "BraTS20_Training_153", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.905213771844023, "dice_TC": 0.9442379182156134, "dice_ET": 0.9580551803974532}
+{"id": "BraTS20_Training_153", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.9114787978283243, "dice_TC": 0.932253823264826, "dice_ET": 0.9548823100257267}
+{"id": "BraTS20_Training_153", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.8481420677504605, "dice_TC": 0.2891636082673363, "dice_ET": 0.30040151395225007}
+{"id": "BraTS20_Training_153", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.8765573787441712, "dice_TC": 0.35216002222530907, "dice_ET": 0.4090247452692867}
+{"id": "BraTS20_Training_153", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9023940413706838, "dice_TC": 0.9108650145181983, "dice_ET": 0.9495149324709911}
+{"id": "BraTS20_Training_153", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9087333006122661, "dice_TC": 0.9138404201253599, "dice_ET": 0.9520219328307059}
+{"id": "BraTS20_Training_153", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9009150883166631, "dice_TC": 0.4511985280338007, "dice_ET": 0.4672893384452239}
+{"id": "BraTS20_Training_153", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9061479442677657, "dice_TC": 0.47512437810945274, "dice_ET": 0.504160302733262}
+{"id": "BraTS20_Training_153", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9331873430881361, "dice_TC": 0.9155833135331455, "dice_ET": 0.9474442590626422}
+{"id": "BraTS20_Training_153", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9332413508149306, "dice_TC": 0.9139158137328001, "dice_ET": 0.9510664993726474}
+{"id": "BraTS20_Training_349", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.8113698407979025, "dice_TC": 0.7986193216521071, "dice_ET": 0.35849210701326584}
+{"id": "BraTS20_Training_349", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.8629267125224953, "dice_TC": 0.9400629408365687, "dice_ET": 0.8753007683569326}
+{"id": "BraTS20_Training_349", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.8736509930135803, "dice_TC": 0.9486540570702892, "dice_ET": 0.889017257563723}
+{"id": "BraTS20_Training_349", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.9310156658557104, "dice_TC": 0.8645017767890677, "dice_ET": 0.656668776313255}
+{"id": "BraTS20_Training_349", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.9367113479214404, "dice_TC": 0.892682428189664, "dice_ET": 0.7063361925975072}
+{"id": "BraTS20_Training_349", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.9416283707621608, "dice_TC": 0.9496228804748492, "dice_ET": 0.8978361090050284}
+{"id": "BraTS20_Training_349", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.9444031749559846, "dice_TC": 0.953121877408856, "dice_ET": 0.8981169369782751}
+{"id": "BraTS20_Training_349", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.8053194281215413, "dice_TC": 0.42353944909401153, "dice_ET": 0.3027129679869778}
+{"id": "BraTS20_Training_349", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9260064081953945, "dice_TC": 0.8750766653203489, "dice_ET": 0.6241999621283848}
+{"id": "BraTS20_Training_349", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9453684084831284, "dice_TC": 0.9371757280240911, "dice_ET": 0.8885275394409078}
+{"id": "BraTS20_Training_349", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9506390665238752, "dice_TC": 0.9456284643204502, "dice_ET": 0.8932812554734297}
+{"id": "BraTS20_Training_349", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9442781736532759, "dice_TC": 0.8470189463889826, "dice_ET": 0.674439973950202}
+{"id": "BraTS20_Training_349", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9460543592619222, "dice_TC": 0.8908201131387906, "dice_ET": 0.7319201541650002}
+{"id": "BraTS20_Training_349", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9536666368475198, "dice_TC": 0.9420882247146921, "dice_ET": 0.8945635686707115}
+{"id": "BraTS20_Training_349", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9559572779707878, "dice_TC": 0.9474471086036671, "dice_ET": 0.8946152911146226}
+{"id": "BraTS20_Training_175", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.5371895263523974, "dice_TC": 0.5813253441757614, "dice_ET": 0.4651030483216796}
+{"id": "BraTS20_Training_175", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.6862701354741902, "dice_TC": 0.7909360605363578, "dice_ET": 0.7726095394760575}
+{"id": "BraTS20_Training_175", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.7391119878848316, "dice_TC": 0.8605353166678145, "dice_ET": 0.8334233597872606}
+{"id": "BraTS20_Training_175", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.834255033258931, "dice_TC": 0.787612565501188, "dice_ET": 0.653598301015158}
+{"id": "BraTS20_Training_175", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.8477370561237985, "dice_TC": 0.8148297626655008, "dice_ET": 0.6693577038498462}
+{"id": "BraTS20_Training_175", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.8529930619353312, "dice_TC": 0.8853788687299893, "dice_ET": 0.8550885994446605}
+{"id": "BraTS20_Training_175", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.8631051226234624, "dice_TC": 0.902557225483943, "dice_ET": 0.8656546514975995}
+{"id": "BraTS20_Training_175", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.9091200026036228, "dice_TC": 0.7202308784364929, "dice_ET": 0.5364522706209454}
+{"id": "BraTS20_Training_175", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9226823032458871, "dice_TC": 0.7715606728837716, "dice_ET": 0.5980867188470618}
+{"id": "BraTS20_Training_175", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9331905710674607, "dice_TC": 0.8850329200889613, "dice_ET": 0.8542828946043383}
+{"id": "BraTS20_Training_175", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9257164604711947, "dice_TC": 0.9008821206003687, "dice_ET": 0.866247328898803}
+{"id": "BraTS20_Training_175", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9277539419810088, "dice_TC": 0.8015733586231557, "dice_ET": 0.6795872379015636}
+{"id": "BraTS20_Training_175", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9340112124876333, "dice_TC": 0.8095604665832719, "dice_ET": 0.6849099066813836}
+{"id": "BraTS20_Training_175", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9380243749846324, "dice_TC": 0.9057702149437052, "dice_ET": 0.8737272213682288}
+{"id": "BraTS20_Training_175", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9361646949766046, "dice_TC": 0.9136958297081916, "dice_ET": 0.878000553644165}
+{"id": "BraTS20_Training_347", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.8233303049550165, "dice_TC": 0.38758854460909997, "dice_ET": 0.2855669837341788}
+{"id": "BraTS20_Training_347", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.8317705460562603, "dice_TC": 0.8235061650331963, "dice_ET": 0.9361568561802925}
+{"id": "BraTS20_Training_347", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.8653207347335343, "dice_TC": 0.9611391459454515, "dice_ET": 0.9403371974865722}
+{"id": "BraTS20_Training_347", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.9305820363383951, "dice_TC": 0.551365503326688, "dice_ET": 0.4957253672223139}
+{"id": "BraTS20_Training_347", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.9258425614900215, "dice_TC": 0.5635691216773813, "dice_ET": 0.5537382140055359}
+{"id": "BraTS20_Training_347", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.9370002141939169, "dice_TC": 0.9672687972826925, "dice_ET": 0.9500205507603782}
+{"id": "BraTS20_Training_347", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.928767914676147, "dice_TC": 0.967828911085238, "dice_ET": 0.9494937147281136}
+{"id": "BraTS20_Training_347", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.9555851028110185, "dice_TC": 0.6216992611362695, "dice_ET": 0.5231314754280015}
+{"id": "BraTS20_Training_347", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.958294750180547, "dice_TC": 0.5595211420889216, "dice_ET": 0.5296634194113705}
+{"id": "BraTS20_Training_347", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9674711721377246, "dice_TC": 0.967204242883429, "dice_ET": 0.9417615714136454}
+{"id": "BraTS20_Training_347", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9634353434259494, "dice_TC": 0.9688572792068844, "dice_ET": 0.9445343289773905}
+{"id": "BraTS20_Training_347", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9628439210602132, "dice_TC": 0.671787802952237, "dice_ET": 0.5719628806322995}
+{"id": "BraTS20_Training_347", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9670782625726673, "dice_TC": 0.6269243748327263, "dice_ET": 0.5965639506003666}
+{"id": "BraTS20_Training_347", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9728154109372029, "dice_TC": 0.966078023649173, "dice_ET": 0.9434381689445085}
+{"id": "BraTS20_Training_347", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9708296959033115, "dice_TC": 0.9687953780084654, "dice_ET": 0.9453080258529003}
+{"id": "BraTS20_Training_041", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.8124314442413163, "dice_TC": 0.6088819109565997, "dice_ET": 0.3928587591075712}
+{"id": "BraTS20_Training_041", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.7635264317394385, "dice_TC": 0.8983612223150255, "dice_ET": 0.76847829214259}
+{"id": "BraTS20_Training_041", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.8196159019204904, "dice_TC": 0.8849468942890508, "dice_ET": 0.7509672497411585}
+{"id": "BraTS20_Training_041", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.9232047856276546, "dice_TC": 0.7473252674732527, "dice_ET": 0.4647845021775041}
+{"id": "BraTS20_Training_041", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.9108386790211451, "dice_TC": 0.7522867369258301, "dice_ET": 0.4731879072402768}
+{"id": "BraTS20_Training_041", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.918295570504374, "dice_TC": 0.8906455862977603, "dice_ET": 0.744809073922998}
+{"id": "BraTS20_Training_041", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.9134330998024978, "dice_TC": 0.8886674417317167, "dice_ET": 0.7402313387610993}
+{"id": "BraTS20_Training_041", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.9273843503121701, "dice_TC": 0.7779576913032124, "dice_ET": 0.5006808251193985}
+{"id": "BraTS20_Training_041", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9295357448020507, "dice_TC": 0.7845263724434877, "dice_ET": 0.5129910714285715}
+{"id": "BraTS20_Training_041", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.935123489377488, "dice_TC": 0.8876336776598875, "dice_ET": 0.7533190578158458}
+{"id": "BraTS20_Training_041", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9339158357114612, "dice_TC": 0.8874712579215972, "dice_ET": 0.7455109020949123}
+{"id": "BraTS20_Training_041", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9333695170896833, "dice_TC": 0.7952782014722461, "dice_ET": 0.5009029254785505}
+{"id": "BraTS20_Training_041", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.93368042642866, "dice_TC": 0.7986060654987756, "dice_ET": 0.5070011793717165}
+{"id": "BraTS20_Training_041", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9390144988745495, "dice_TC": 0.8908465475291552, "dice_ET": 0.7390919504321566}
+{"id": "BraTS20_Training_041", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9378462188343046, "dice_TC": 0.8905733340805918, "dice_ET": 0.7355503807006986}
+{"id": "BraTS20_Training_161", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.7550911507601556, "dice_TC": 0.773498056237926, "dice_ET": 0.47155094365902916}
+{"id": "BraTS20_Training_161", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.7364253095055829, "dice_TC": 0.8985400957990511, "dice_ET": 0.8445133772780148}
+{"id": "BraTS20_Training_161", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.768039734167161, "dice_TC": 0.905742445976586, "dice_ET": 0.8268372816877053}
+{"id": "BraTS20_Training_161", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.8782955447390818, "dice_TC": 0.7537686249700037, "dice_ET": 0.514574295010846}
+{"id": "BraTS20_Training_161", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.9140142246427178, "dice_TC": 0.8027993567820986, "dice_ET": 0.5670208418471598}
+{"id": "BraTS20_Training_161", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.8948519564107258, "dice_TC": 0.8983660654948782, "dice_ET": 0.8308716455169545}
+{"id": "BraTS20_Training_161", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.9065232667083073, "dice_TC": 0.8988475136599476, "dice_ET": 0.8214997594336381}
+{"id": "BraTS20_Training_161", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.9549578078721382, "dice_TC": 0.6445894029133984, "dice_ET": 0.427826838423938}
+{"id": "BraTS20_Training_161", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9518414124782556, "dice_TC": 0.7115687244278585, "dice_ET": 0.48825319155609925}
+{"id": "BraTS20_Training_161", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9540874506944834, "dice_TC": 0.8956962719298246, "dice_ET": 0.8190424114008407}
+{"id": "BraTS20_Training_161", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9504457533654614, "dice_TC": 0.9026438425690951, "dice_ET": 0.8181787024025774}
+{"id": "BraTS20_Training_161", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9539295392953929, "dice_TC": 0.7287194831100126, "dice_ET": 0.5090597977205366}
+{"id": "BraTS20_Training_161", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9533682691577429, "dice_TC": 0.7619133983223759, "dice_ET": 0.5294428307367309}
+{"id": "BraTS20_Training_161", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9479480816949799, "dice_TC": 0.89550736572422, "dice_ET": 0.8203845231159396}
+{"id": "BraTS20_Training_161", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9472057392532102, "dice_TC": 0.9002762430939226, "dice_ET": 0.8190777049067747}
+{"id": "BraTS20_Training_040", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.7945181698942982, "dice_TC": 0.6137056813149164, "dice_ET": 0.3879243327286862}
+{"id": "BraTS20_Training_040", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.7222989417512484, "dice_TC": 0.9520374279924889, "dice_ET": 0.8828378809787609}
+{"id": "BraTS20_Training_040", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.7883185247275776, "dice_TC": 0.9447496501159317, "dice_ET": 0.8659865311262388}
+{"id": "BraTS20_Training_040", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.9076603161982814, "dice_TC": 0.8273333206012108, "dice_ET": 0.624167353265651}
+{"id": "BraTS20_Training_040", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.9067085922427683, "dice_TC": 0.7913403118366151, "dice_ET": 0.62274022714705}
+{"id": "BraTS20_Training_040", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.8864801532639845, "dice_TC": 0.9569851461021762, "dice_ET": 0.8866798470094788}
+{"id": "BraTS20_Training_040", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.8859362159677333, "dice_TC": 0.9555753186803879, "dice_ET": 0.8841244405150025}
+{"id": "BraTS20_Training_040", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.9370869018804692, "dice_TC": 0.7959667218926478, "dice_ET": 0.6022058823529411}
+{"id": "BraTS20_Training_040", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9346041365702407, "dice_TC": 0.830265658183986, "dice_ET": 0.6327616467889274}
+{"id": "BraTS20_Training_040", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9312016026967532, "dice_TC": 0.9583788553659971, "dice_ET": 0.8872257874703492}
+{"id": "BraTS20_Training_040", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9254987869790346, "dice_TC": 0.9581544498475755, "dice_ET": 0.8868819894055326}
+{"id": "BraTS20_Training_040", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9361349873456781, "dice_TC": 0.858824087695155, "dice_ET": 0.6641772936831037}
+{"id": "BraTS20_Training_040", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9346748262628358, "dice_TC": 0.8686661770958142, "dice_ET": 0.6838509316770186}
+{"id": "BraTS20_Training_040", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9296904783516384, "dice_TC": 0.9574288902456998, "dice_ET": 0.8846586987321539}
+{"id": "BraTS20_Training_040", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.927306280890058, "dice_TC": 0.9575565419573029, "dice_ET": 0.8842362287942565}
+{"id": "BraTS20_Training_057", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.72976241418445, "dice_TC": 0.07328893967453406, "dice_ET": 0.0633761458519521}
+{"id": "BraTS20_Training_057", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.7551120023218385, "dice_TC": 0.8717460075465945, "dice_ET": 0.8492486158713419}
+{"id": "BraTS20_Training_057", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.7391103062322136, "dice_TC": 0.9182374541003672, "dice_ET": 0.8640656197722735}
+{"id": "BraTS20_Training_057", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.9249310422665484, "dice_TC": 0.48087131225547214, "dice_ET": 0.5030509306104928}
+{"id": "BraTS20_Training_057", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.9272798590125353, "dice_TC": 0.4292021893503164, "dice_ET": 0.5107749966537277}
+{"id": "BraTS20_Training_057", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.9076452456566412, "dice_TC": 0.8903633737949338, "dice_ET": 0.8414896891351185}
+{"id": "BraTS20_Training_057", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.9019014718604528, "dice_TC": 0.9045060936497755, "dice_ET": 0.8482096252218394}
+{"id": "BraTS20_Training_057", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.9168048344168593, "dice_TC": 0.3795599211606191, "dice_ET": 0.3698943223733339}
+{"id": "BraTS20_Training_057", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9235566174214195, "dice_TC": 0.3538419187226868, "dice_ET": 0.3212583636577063}
+{"id": "BraTS20_Training_057", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9164348989082199, "dice_TC": 0.8591512819564172, "dice_ET": 0.8206529841474929}
+{"id": "BraTS20_Training_057", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9178001517605354, "dice_TC": 0.8888201878115701, "dice_ET": 0.8329449903758485}
+{"id": "BraTS20_Training_057", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9244139245289218, "dice_TC": 0.4830111065405183, "dice_ET": 0.4745658778604677}
+{"id": "BraTS20_Training_057", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.928669772769829, "dice_TC": 0.4736405491725082, "dice_ET": 0.5173175665162595}
+{"id": "BraTS20_Training_057", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9234042792097329, "dice_TC": 0.8650740492669494, "dice_ET": 0.8155055411804911}
+{"id": "BraTS20_Training_057", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9245772629365173, "dice_TC": 0.8859328745530737, "dice_ET": 0.827355714071931}
+{"id": "BraTS20_Training_025", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.8488894647472398, "dice_TC": 0.8043647914128068, "dice_ET": 0.42316842690383544}
+{"id": "BraTS20_Training_025", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.832705922220667, "dice_TC": 0.9332876278873536, "dice_ET": 0.8793070046771649}
+{"id": "BraTS20_Training_025", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.8404138697421574, "dice_TC": 0.9560592966828425, "dice_ET": 0.8962167830238141}
+{"id": "BraTS20_Training_025", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.9228027002760134, "dice_TC": 0.8748245982033069, "dice_ET": 0.5146242652741025}
+{"id": "BraTS20_Training_025", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.9227719903596686, "dice_TC": 0.8980185632401292, "dice_ET": 0.5000230191980112}
+{"id": "BraTS20_Training_025", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.9352426433864026, "dice_TC": 0.9469223548343838, "dice_ET": 0.8845782401147871}
+{"id": "BraTS20_Training_025", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.9352356128678235, "dice_TC": 0.9603453789574672, "dice_ET": 0.8924059268152919}
+{"id": "BraTS20_Training_025", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.9110745270199645, "dice_TC": 0.8278267486841271, "dice_ET": 0.4925503943908852}
+{"id": "BraTS20_Training_025", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9136647501336358, "dice_TC": 0.8744016719476843, "dice_ET": 0.47975663039261723}
+{"id": "BraTS20_Training_025", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9185068245354383, "dice_TC": 0.9500046451749904, "dice_ET": 0.8894488879149776}
+{"id": "BraTS20_Training_025", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.922289140643655, "dice_TC": 0.9603406196943973, "dice_ET": 0.8928259921500218}
+{"id": "BraTS20_Training_025", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9182513000998056, "dice_TC": 0.8927223571712847, "dice_ET": 0.5451085832471562}
+{"id": "BraTS20_Training_025", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.920192421434486, "dice_TC": 0.9053665480427047, "dice_ET": 0.5245823595602874}
+{"id": "BraTS20_Training_025", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9270562655777695, "dice_TC": 0.9498376037531577, "dice_ET": 0.8812447480415277}
+{"id": "BraTS20_Training_025", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9292481703260146, "dice_TC": 0.957893472487288, "dice_ET": 0.8844893426861306}
+{"id": "BraTS20_Training_047", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.7470669358223573, "dice_TC": 0.6031025903702619, "dice_ET": 0.40376609412478287}
+{"id": "BraTS20_Training_047", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.7667442838200575, "dice_TC": 0.9142285258565419, "dice_ET": 0.8554657542327886}
+{"id": "BraTS20_Training_047", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.8422818396458049, "dice_TC": 0.9225736434108527, "dice_ET": 0.8552646887725421}
+{"id": "BraTS20_Training_047", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.8725291644460236, "dice_TC": 0.7575805736559904, "dice_ET": 0.4725946718127365}
+{"id": "BraTS20_Training_047", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.8952647934291644, "dice_TC": 0.7885827619076904, "dice_ET": 0.5042237388440796}
+{"id": "BraTS20_Training_047", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.8469335004307982, "dice_TC": 0.919634921984281, "dice_ET": 0.851145256183241}
+{"id": "BraTS20_Training_047", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.8754281593654227, "dice_TC": 0.9188527052950285, "dice_ET": 0.8476932499608301}
+{"id": "BraTS20_Training_047", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.8869024485036922, "dice_TC": 0.8186057221806459, "dice_ET": 0.4998600829326617}
+{"id": "BraTS20_Training_047", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9047745494754614, "dice_TC": 0.8082953145021098, "dice_ET": 0.5118293726548614}
+{"id": "BraTS20_Training_047", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.890274762835658, "dice_TC": 0.9377018554873029, "dice_ET": 0.8545736703940594}
+{"id": "BraTS20_Training_047", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.8944524509979077, "dice_TC": 0.9295958484038371, "dice_ET": 0.8502822819354}
+{"id": "BraTS20_Training_047", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.8954225210354684, "dice_TC": 0.7956557201116119, "dice_ET": 0.4918883675739252}
+{"id": "BraTS20_Training_047", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9029183327901042, "dice_TC": 0.80654848076239, "dice_ET": 0.5095851685449979}
+{"id": "BraTS20_Training_047", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.8859948369901328, "dice_TC": 0.9293131905013859, "dice_ET": 0.8428290766208252}
+{"id": "BraTS20_Training_047", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.8918357209561089, "dice_TC": 0.9243410437834988, "dice_ET": 0.8404049596177909}
+{"id": "BraTS20_Training_253", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.7042879793085733, "dice_TC": 0.7464261631827377, "dice_ET": 0.46842530142444205}
+{"id": "BraTS20_Training_253", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.7120673853271069, "dice_TC": 0.9273847852083525, "dice_ET": 0.7856700670201598}
+{"id": "BraTS20_Training_253", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.7324135459595055, "dice_TC": 0.9283744530646763, "dice_ET": 0.7818766756032172}
+{"id": "BraTS20_Training_253", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.8986433346441212, "dice_TC": 0.8317410316457008, "dice_ET": 0.5821482789602503}
+{"id": "BraTS20_Training_253", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.9204074565017495, "dice_TC": 0.8661567877629063, "dice_ET": 0.5659580001300305}
+{"id": "BraTS20_Training_253", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.9270267090245912, "dice_TC": 0.926026995842567, "dice_ET": 0.7764880873329969}
+{"id": "BraTS20_Training_253", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.9267159694938757, "dice_TC": 0.9296632698272043, "dice_ET": 0.7818118485571126}
+{"id": "BraTS20_Training_253", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.9386255397325033, "dice_TC": 0.8199599632996913, "dice_ET": 0.5312885115705874}
+{"id": "BraTS20_Training_253", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9472441764930511, "dice_TC": 0.8600956858521633, "dice_ET": 0.5304246367075629}
+{"id": "BraTS20_Training_253", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9522801988419843, "dice_TC": 0.9269047841089247, "dice_ET": 0.7969298245614035}
+{"id": "BraTS20_Training_253", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9506867618583901, "dice_TC": 0.9294727354664263, "dice_ET": 0.8003865267807841}
+{"id": "BraTS20_Training_253", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9421868503890242, "dice_TC": 0.8583985196400034, "dice_ET": 0.586499716940291}
+{"id": "BraTS20_Training_253", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9452096797018728, "dice_TC": 0.865412567672895, "dice_ET": 0.5629148326696011}
+{"id": "BraTS20_Training_253", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9528582250451605, "dice_TC": 0.9241200555952068, "dice_ET": 0.7933667903120227}
+{"id": "BraTS20_Training_253", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9524008787530076, "dice_TC": 0.927370506651571, "dice_ET": 0.7974812329859488}
+{"id": "BraTS20_Training_071", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.8436611809925153, "dice_TC": 0.19148361869606134, "dice_ET": 0.19216602410674616}
+{"id": "BraTS20_Training_071", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.8403037960961796, "dice_TC": 0.3414970388397316, "dice_ET": 0.7968302883557121}
+{"id": "BraTS20_Training_071", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.8535818785955167, "dice_TC": 0.3816027624096633, "dice_ET": 0.7835582822085889}
+{"id": "BraTS20_Training_071", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.897930242968865, "dice_TC": 0.2977856732701694, "dice_ET": 0.386651540934014}
+{"id": "BraTS20_Training_071", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.8905915326744358, "dice_TC": 0.2573179610792623, "dice_ET": 0.3445557242551295}
+{"id": "BraTS20_Training_071", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.9038854301759272, "dice_TC": 0.4700432858945485, "dice_ET": 0.8277075131920596}
+{"id": "BraTS20_Training_071", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.8986238880863682, "dice_TC": 0.42078757596930905, "dice_ET": 0.8120319114295018}
+{"id": "BraTS20_Training_071", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.9063755089286535, "dice_TC": 0.3285693237070871, "dice_ET": 0.3868638844867054}
+{"id": "BraTS20_Training_071", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9063877756272162, "dice_TC": 0.26880593791740987, "dice_ET": 0.3118364457995318}
+{"id": "BraTS20_Training_071", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9092792789955819, "dice_TC": 0.7458790802284632, "dice_ET": 0.8254257116859482}
+{"id": "BraTS20_Training_071", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9086242395736317, "dice_TC": 0.6775245828541926, "dice_ET": 0.8228338083287252}
+{"id": "BraTS20_Training_071", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9075096129353113, "dice_TC": 0.32878663700581506, "dice_ET": 0.43435825804056083}
+{"id": "BraTS20_Training_071", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9070852625089155, "dice_TC": 0.2804062344159391, "dice_ET": 0.3662596458031517}
+{"id": "BraTS20_Training_071", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.912022283159169, "dice_TC": 0.7343193294542845, "dice_ET": 0.831733198585144}
+{"id": "BraTS20_Training_071", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9115747075191785, "dice_TC": 0.5831875552545943, "dice_ET": 0.8289725060220948}
+{"id": "BraTS20_Training_360", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.7641875590055597, "dice_TC": 0.7511438110547792, "dice_ET": 0.521967145684979}
+{"id": "BraTS20_Training_360", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.8031620866601945, "dice_TC": 0.9537671681408202, "dice_ET": 0.9229585412488924}
+{"id": "BraTS20_Training_360", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.8323552687022744, "dice_TC": 0.9664879826221008, "dice_ET": 0.9371501567762165}
+{"id": "BraTS20_Training_360", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.774826166477323, "dice_TC": 0.584580132093274, "dice_ET": 0.22339804005864392}
+{"id": "BraTS20_Training_360", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.8367192532673875, "dice_TC": 0.7255667675247053, "dice_ET": 0.4424310904247048}
+{"id": "BraTS20_Training_360", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.90133199249503, "dice_TC": 0.9279104402684114, "dice_ET": 0.8955354734286485}
+{"id": "BraTS20_Training_360", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.911803242759061, "dice_TC": 0.9401047636027133, "dice_ET": 0.9055202537217413}
+{"id": "BraTS20_Training_360", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.7338955706034506, "dice_TC": 0.5759295511920535, "dice_ET": 0.3582881725236047}
+{"id": "BraTS20_Training_360", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.8019735550173464, "dice_TC": 0.6662575850548851, "dice_ET": 0.4209138923393482}
+{"id": "BraTS20_Training_360", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.890588864805057, "dice_TC": 0.9490134658926473, "dice_ET": 0.9224037942557907}
+{"id": "BraTS20_Training_360", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9087844462913333, "dice_TC": 0.9558299936359415, "dice_ET": 0.9257596804004179}
+{"id": "BraTS20_Training_360", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.7534496988021504, "dice_TC": 0.5468580258159417, "dice_ET": 0.26205241786637135}
+{"id": "BraTS20_Training_360", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.7739331711080776, "dice_TC": 0.6474464348436951, "dice_ET": 0.3565700773286803}
+{"id": "BraTS20_Training_360", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.834623074408792, "dice_TC": 0.9187986835794731, "dice_ET": 0.8936365570448005}
+{"id": "BraTS20_Training_360", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.8531208245848444, "dice_TC": 0.9081706198401258, "dice_ET": 0.8789270099387457}
+{"id": "BraTS20_Training_186", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.7892687644980697, "dice_TC": 0.5628708390600382, "dice_ET": 0.4652272259921859}
+{"id": "BraTS20_Training_186", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.7753826194482172, "dice_TC": 0.9480951645825829, "dice_ET": 0.915036884097818}
+{"id": "BraTS20_Training_186", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.8000166514028807, "dice_TC": 0.9503062957942241, "dice_ET": 0.9177870931014853}
+{"id": "BraTS20_Training_186", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.8964157788567002, "dice_TC": 0.8046522503485724, "dice_ET": 0.6894445307242325}
+{"id": "BraTS20_Training_186", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.9094114011224852, "dice_TC": 0.7654642022519652, "dice_ET": 0.6757811293560508}
+{"id": "BraTS20_Training_186", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.8973466221578785, "dice_TC": 0.9510526813907267, "dice_ET": 0.9222390692205341}
+{"id": "BraTS20_Training_186", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.900647171620326, "dice_TC": 0.9524563501966284, "dice_ET": 0.9255011962709347}
+{"id": "BraTS20_Training_186", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.9005311425998419, "dice_TC": 0.7770094605329674, "dice_ET": 0.6133440330161641}
+{"id": "BraTS20_Training_186", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9007366277993707, "dice_TC": 0.7391693172912921, "dice_ET": 0.6057152161524058}
+{"id": "BraTS20_Training_186", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9177598162625326, "dice_TC": 0.95317578694164, "dice_ET": 0.9217175922071434}
+{"id": "BraTS20_Training_186", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9203140026390535, "dice_TC": 0.9537650667473107, "dice_ET": 0.9240577419086446}
+{"id": "BraTS20_Training_186", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9189617847800595, "dice_TC": 0.8098098008503021, "dice_ET": 0.6935023840018942}
+{"id": "BraTS20_Training_186", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9183396544141692, "dice_TC": 0.7848835628234996, "dice_ET": 0.6692457758820223}
+{"id": "BraTS20_Training_186", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9321915635902315, "dice_TC": 0.9536833353541302, "dice_ET": 0.9267765917680775}
+{"id": "BraTS20_Training_186", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9331011105492818, "dice_TC": 0.9549566724436742, "dice_ET": 0.9292390684164117}
+{"id": "BraTS20_Training_205", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.6088421762116393, "dice_TC": 0.23838484546360916, "dice_ET": 0.2932849120683278}
+{"id": "BraTS20_Training_205", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.7103884419983065, "dice_TC": 0.8512396694214877, "dice_ET": 0.9087604507451835}
+{"id": "BraTS20_Training_205", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.7078143553725272, "dice_TC": 0.7863419533015316, "dice_ET": 0.913826212193951}
+{"id": "BraTS20_Training_205", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.5570190063354451, "dice_TC": 0.2300420926037282, "dice_ET": 0.27944601825621657}
+{"id": "BraTS20_Training_205", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.6875886082409918, "dice_TC": 0.2388551734472166, "dice_ET": 0.29343322173235653}
+{"id": "BraTS20_Training_205", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.7438664867835907, "dice_TC": 0.8248162408120406, "dice_ET": 0.9166765719719482}
+{"id": "BraTS20_Training_205", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.7731085889411214, "dice_TC": 0.754819181137486, "dice_ET": 0.9193910067272513}
+{"id": "BraTS20_Training_205", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.7814147264667404, "dice_TC": 0.25486842831135875, "dice_ET": 0.24084335721043384}
+{"id": "BraTS20_Training_205", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.7722910486826033, "dice_TC": 0.2772173913043478, "dice_ET": 0.3614898714876933}
+{"id": "BraTS20_Training_205", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.8138043851085723, "dice_TC": 0.895354475802541, "dice_ET": 0.9002320185614849}
+{"id": "BraTS20_Training_205", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.8314655114423711, "dice_TC": 0.7757194839563347, "dice_ET": 0.9080168776371308}
+{"id": "BraTS20_Training_205", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.7686990252635767, "dice_TC": 0.2606136574200229, "dice_ET": 0.3226979298063367}
+{"id": "BraTS20_Training_205", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.7664623196482754, "dice_TC": 0.26843301804709646, "dice_ET": 0.3372079640925308}
+{"id": "BraTS20_Training_205", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.8147072030428696, "dice_TC": 0.8366129463093224, "dice_ET": 0.9113560134163872}
+{"id": "BraTS20_Training_205", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.8184926967632479, "dice_TC": 0.7322201607915894, "dice_ET": 0.9162922676755734}
+{"id": "BraTS20_Training_220", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.37908051242799917, "dice_TC": 0.221180163454361, "dice_ET": 0.17636342266102492}
+{"id": "BraTS20_Training_220", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.6568778160614895, "dice_TC": 0.8496869830354536, "dice_ET": 0.794960383268841}
+{"id": "BraTS20_Training_220", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.6440612047603702, "dice_TC": 0.8573627680789281, "dice_ET": 0.8059987707437001}
+{"id": "BraTS20_Training_220", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.7928234789049342, "dice_TC": 0.6999649586242217, "dice_ET": 0.5421653123204465}
+{"id": "BraTS20_Training_220", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.7643264418738207, "dice_TC": 0.6773359770562617, "dice_ET": 0.5542975815636095}
+{"id": "BraTS20_Training_220", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.7624688401672326, "dice_TC": 0.8346592332748685, "dice_ET": 0.7556881600412123}
+{"id": "BraTS20_Training_220", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.7526119991653817, "dice_TC": 0.8563321036905974, "dice_ET": 0.7846588836191171}
+{"id": "BraTS20_Training_220", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.8635535298512478, "dice_TC": 0.5814782132764418, "dice_ET": 0.5014001323761519}
+{"id": "BraTS20_Training_220", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.8813572313706453, "dice_TC": 0.636810960313887, "dice_ET": 0.49862542133824195}
+{"id": "BraTS20_Training_220", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.8772926155576016, "dice_TC": 0.8195499145114832, "dice_ET": 0.7558553088133241}
+{"id": "BraTS20_Training_220", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.8864165632596168, "dice_TC": 0.8440738182177046, "dice_ET": 0.7848734482204731}
+{"id": "BraTS20_Training_220", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.8668963513345233, "dice_TC": 0.669443266103634, "dice_ET": 0.5474732256902368}
+{"id": "BraTS20_Training_220", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.8760163388987169, "dice_TC": 0.7297126569601725, "dice_ET": 0.5951557093425606}
+{"id": "BraTS20_Training_220", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.8667445466323995, "dice_TC": 0.813657070110588, "dice_ET": 0.734643217771794}
+{"id": "BraTS20_Training_220", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.8730418110116129, "dice_TC": 0.835781598677134, "dice_ET": 0.7584636272062366}
+{"id": "BraTS20_Training_135", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.8204082396303017, "dice_TC": 0.7333021168321731, "dice_ET": 0.4755845104724793}
+{"id": "BraTS20_Training_135", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.8188027281091633, "dice_TC": 0.7917543077447612, "dice_ET": 0.7858325403136447}
+{"id": "BraTS20_Training_135", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.8604638331524838, "dice_TC": 0.8542580816242802, "dice_ET": 0.8519309092693459}
+{"id": "BraTS20_Training_135", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.9338962701535048, "dice_TC": 0.7754224385490694, "dice_ET": 0.618607380695204}
+{"id": "BraTS20_Training_135", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.9328639633103127, "dice_TC": 0.8092018576520142, "dice_ET": 0.5894924904617593}
+{"id": "BraTS20_Training_135", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.9389346887815462, "dice_TC": 0.8356887519726526, "dice_ET": 0.8600334881965899}
+{"id": "BraTS20_Training_135", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.9326438332436892, "dice_TC": 0.8694335167254587, "dice_ET": 0.8656039624681712}
+{"id": "BraTS20_Training_135", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.9284746655628516, "dice_TC": 0.8575000816417931, "dice_ET": 0.6170762492905368}
+{"id": "BraTS20_Training_135", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.933806853062936, "dice_TC": 0.8466199838405601, "dice_ET": 0.5794029850746268}
+{"id": "BraTS20_Training_135", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9184929539687776, "dice_TC": 0.8336594709323394, "dice_ET": 0.8466491474972911}
+{"id": "BraTS20_Training_135", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9294234406306762, "dice_TC": 0.8746708559967197, "dice_ET": 0.8668807172714605}
+{"id": "BraTS20_Training_135", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9468181637932442, "dice_TC": 0.8314388499049339, "dice_ET": 0.636177406192229}
+{"id": "BraTS20_Training_135", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9463176615860963, "dice_TC": 0.838090775263365, "dice_ET": 0.6164580925097586}
+{"id": "BraTS20_Training_135", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9426521449794266, "dice_TC": 0.8592876663586181, "dice_ET": 0.8647586980920314}
+{"id": "BraTS20_Training_135", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9439582366589327, "dice_TC": 0.8769168240610132, "dice_ET": 0.8684031501147278}
+{"id": "BraTS20_Training_127", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.7444612582571426, "dice_TC": 0.2611625125112907, "dice_ET": 0.3030952380952381}
+{"id": "BraTS20_Training_127", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.7901335155592936, "dice_TC": 0.9437091130381865, "dice_ET": 0.9590130671211752}
+{"id": "BraTS20_Training_127", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.8564318303015939, "dice_TC": 0.9532283823864933, "dice_ET": 0.968431277319087}
+{"id": "BraTS20_Training_127", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.8985523225685524, "dice_TC": 0.42234577354596, "dice_ET": 0.47793072643846185}
+{"id": "BraTS20_Training_127", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.8985970482237858, "dice_TC": 0.37850735449575645, "dice_ET": 0.4523809523809524}
+{"id": "BraTS20_Training_127", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.9122760800842993, "dice_TC": 0.9400522583053378, "dice_ET": 0.9549520766773163}
+{"id": "BraTS20_Training_127", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.9094879940203682, "dice_TC": 0.9275981439198645, "dice_ET": 0.9373045653533458}
+{"id": "BraTS20_Training_127", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.907594198066022, "dice_TC": 0.4078264513425523, "dice_ET": 0.46335785454884065}
+{"id": "BraTS20_Training_127", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.8970438328236493, "dice_TC": 0.38169784520535527, "dice_ET": 0.4949326491340603}
+{"id": "BraTS20_Training_127", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9425479490714107, "dice_TC": 0.9305095962938451, "dice_ET": 0.9610618053889821}
+{"id": "BraTS20_Training_127", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9364887604090262, "dice_TC": 0.9217302502005982, "dice_ET": 0.9395604395604396}
+{"id": "BraTS20_Training_127", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9200004232222022, "dice_TC": 0.45412564882763556, "dice_ET": 0.5394535727932748}
+{"id": "BraTS20_Training_127", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9123266984080374, "dice_TC": 0.44405348346235046, "dice_ET": 0.5579905425331774}
+{"id": "BraTS20_Training_127", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9498554261903976, "dice_TC": 0.914269191846176, "dice_ET": 0.9307453416149069}
+{"id": "BraTS20_Training_127", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9452326001115693, "dice_TC": 0.9110356291103563, "dice_ET": 0.9200770712909441}
+{"id": "BraTS20_Training_072", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.534729954499842, "dice_TC": 0.31244995233555767, "dice_ET": 0.24623586429725364}
+{"id": "BraTS20_Training_072", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.701736048537274, "dice_TC": 0.9475649537954834, "dice_ET": 0.8947000382621086}
+{"id": "BraTS20_Training_072", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.7655080245526474, "dice_TC": 0.9467386179074763, "dice_ET": 0.8912858061383826}
+{"id": "BraTS20_Training_072", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.6983820555249126, "dice_TC": 0.5918750733826464, "dice_ET": 0.47600995418284997}
+{"id": "BraTS20_Training_072", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.7122607486698096, "dice_TC": 0.6157789145300043, "dice_ET": 0.49952874646559847}
+{"id": "BraTS20_Training_072", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.8017964071856287, "dice_TC": 0.9440572495332918, "dice_ET": 0.8910921686281579}
+{"id": "BraTS20_Training_072", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.8039516069798432, "dice_TC": 0.9446370745218089, "dice_ET": 0.8885469333919542}
+{"id": "BraTS20_Training_072", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.7147428008860448, "dice_TC": 0.6827809314533357, "dice_ET": 0.5828721532223101}
+{"id": "BraTS20_Training_072", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.7487608142959048, "dice_TC": 0.7345403583978236, "dice_ET": 0.5775278974856588}
+{"id": "BraTS20_Training_072", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.7731565427621638, "dice_TC": 0.9486373491851068, "dice_ET": 0.8941400592387688}
+{"id": "BraTS20_Training_072", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.7800080327429905, "dice_TC": 0.9477507567059806, "dice_ET": 0.8903842377430123}
+{"id": "BraTS20_Training_072", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.7387457175397583, "dice_TC": 0.6690464436258687, "dice_ET": 0.5281804288426805}
+{"id": "BraTS20_Training_072", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.7461799227405316, "dice_TC": 0.6758072186750584, "dice_ET": 0.5267588240482881}
+{"id": "BraTS20_Training_072", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.775060262774279, "dice_TC": 0.9446297946411919, "dice_ET": 0.8883791654854256}
+{"id": "BraTS20_Training_072", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.7786212105278253, "dice_TC": 0.9442390024896092, "dice_ET": 0.8858283019356845}
+{"id": "BraTS20_Training_136", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.3556137136875164, "dice_TC": 0.3303447613032554, "dice_ET": 0.30119596445513463}
+{"id": "BraTS20_Training_136", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.5924717912552891, "dice_TC": 0.8504988056765491, "dice_ET": 0.8296223345037252}
+{"id": "BraTS20_Training_136", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.7292634993917085, "dice_TC": 0.86164692409548, "dice_ET": 0.8283768640634428}
+{"id": "BraTS20_Training_136", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.8159722806250316, "dice_TC": 0.5680706964615552, "dice_ET": 0.5732916393959228}
+{"id": "BraTS20_Training_136", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.8261531978346137, "dice_TC": 0.6901677033023828, "dice_ET": 0.6886887786036694}
+{"id": "BraTS20_Training_136", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.8302436860284564, "dice_TC": 0.8748965309654602, "dice_ET": 0.8398566950291089}
+{"id": "BraTS20_Training_136", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.8250632606338113, "dice_TC": 0.873551637279597, "dice_ET": 0.8343340792768041}
+{"id": "BraTS20_Training_136", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.8185806313268944, "dice_TC": 0.5241433861863157, "dice_ET": 0.4705142830535702}
+{"id": "BraTS20_Training_136", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.8485316714309015, "dice_TC": 0.6059392726059393, "dice_ET": 0.5518723423711764}
+{"id": "BraTS20_Training_136", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.8916153778255671, "dice_TC": 0.8632041769716955, "dice_ET": 0.8358242198810611}
+{"id": "BraTS20_Training_136", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.8875938476522869, "dice_TC": 0.874410551134689, "dice_ET": 0.8383092847485427}
+{"id": "BraTS20_Training_136", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.8364851389885065, "dice_TC": 0.5223278542869836, "dice_ET": 0.5026130217485566}
+{"id": "BraTS20_Training_136", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.8520195462001093, "dice_TC": 0.610027158376215, "dice_ET": 0.6000136864435777}
+{"id": "BraTS20_Training_136", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.8880317084133534, "dice_TC": 0.8777326071949068, "dice_ET": 0.8423770248349288}
+{"id": "BraTS20_Training_136", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.8867340858819592, "dice_TC": 0.8814336479309159, "dice_ET": 0.8407438447076944}
+{"id": "BraTS20_Training_074", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.7565071122546463, "dice_TC": 0.6749482401656315, "dice_ET": 0.4264469040194634}
+{"id": "BraTS20_Training_074", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.5142415692597071, "dice_TC": 0.4437230196890464, "dice_ET": 0.40036698333777265}
+{"id": "BraTS20_Training_074", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.7470775992155936, "dice_TC": 0.7704494777608262, "dice_ET": 0.6831161630163571}
+{"id": "BraTS20_Training_074", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.5322183230045546, "dice_TC": 0.1662834680709041, "dice_ET": 0.09641406225008797}
+{"id": "BraTS20_Training_074", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.710340899337552, "dice_TC": 0.4468586619406292, "dice_ET": 0.29766909766909766}
+{"id": "BraTS20_Training_074", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.6899148929110606, "dice_TC": 0.5484966938223798, "dice_ET": 0.49458758957158105}
+{"id": "BraTS20_Training_074", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.7955442300691664, "dice_TC": 0.7704594455072727, "dice_ET": 0.6706147632381}
+{"id": "BraTS20_Training_074", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.7691272350987387, "dice_TC": 0.5741997252632893, "dice_ET": 0.3557629794743197}
+{"id": "BraTS20_Training_074", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.857046786434816, "dice_TC": 0.6808647432291248, "dice_ET": 0.45845776232358354}
+{"id": "BraTS20_Training_074", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.7875514024201512, "dice_TC": 0.6258456711442298, "dice_ET": 0.5443404819077585}
+{"id": "BraTS20_Training_074", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.8441625498897541, "dice_TC": 0.7364225360523095, "dice_ET": 0.6386425181983056}
+{"id": "BraTS20_Training_074", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.7204126345063989, "dice_TC": 0.43426329404003405, "dice_ET": 0.28892199051086837}
+{"id": "BraTS20_Training_074", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.7989246987042016, "dice_TC": 0.5638317615102998, "dice_ET": 0.36668660753764926}
+{"id": "BraTS20_Training_074", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.7743596383660972, "dice_TC": 0.6200414051021771, "dice_ET": 0.5376958224543081}
+{"id": "BraTS20_Training_074", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.8315522797246963, "dice_TC": 0.7324818462756322, "dice_ET": 0.631069613635811}
+{"id": "BraTS20_Training_235", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.8635363841077962, "dice_TC": 0.6542264535872152, "dice_ET": 0.30770232967176137}
+{"id": "BraTS20_Training_235", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.8593926835100024, "dice_TC": 0.8394521105962626, "dice_ET": 0.7924435549001019}
+{"id": "BraTS20_Training_235", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.8963251601135822, "dice_TC": 0.8286236216913531, "dice_ET": 0.8489538453816101}
+{"id": "BraTS20_Training_235", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.9347605345610334, "dice_TC": 0.8579049466537343, "dice_ET": 0.6018448220191812}
+{"id": "BraTS20_Training_235", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.9390839085686993, "dice_TC": 0.8352179340943587, "dice_ET": 0.5676609691689805}
+{"id": "BraTS20_Training_235", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.9383326459194182, "dice_TC": 0.9408856600247189, "dice_ET": 0.8915135466787225}
+{"id": "BraTS20_Training_235", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.9409066631565891, "dice_TC": 0.9429266973221531, "dice_ET": 0.8938376226817857}
+{"id": "BraTS20_Training_235", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.9476989930998179, "dice_TC": 0.5320440575165106, "dice_ET": 0.4769263951536521}
+{"id": "BraTS20_Training_235", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9483181793546289, "dice_TC": 0.5191925297869971, "dice_ET": 0.4520192036147981}
+{"id": "BraTS20_Training_235", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9517992922324297, "dice_TC": 0.8081058924487868, "dice_ET": 0.8774069793178073}
+{"id": "BraTS20_Training_235", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9504384224472293, "dice_TC": 0.7905027114172651, "dice_ET": 0.8730409206949826}
+{"id": "BraTS20_Training_235", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9526433897904258, "dice_TC": 0.8540556784962982, "dice_ET": 0.6150045593965017}
+{"id": "BraTS20_Training_235", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9526982217492559, "dice_TC": 0.8273219567690557, "dice_ET": 0.5454999268420736}
+{"id": "BraTS20_Training_235", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9552811805216983, "dice_TC": 0.9426111413066922, "dice_ET": 0.89955138203277}
+{"id": "BraTS20_Training_235", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9554172987827615, "dice_TC": 0.9382814463092772, "dice_ET": 0.8942671867303018}
+{"id": "BraTS20_Training_203", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.6527959351099585, "dice_TC": 0.2692068341253677, "dice_ET": 0.1982979987691263}
+{"id": "BraTS20_Training_203", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.6821946719016206, "dice_TC": 0.7015989628349178, "dice_ET": 0.892804984908967}
+{"id": "BraTS20_Training_203", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.7282914847489386, "dice_TC": 0.8919928763487796, "dice_ET": 0.8896135981816385}
+{"id": "BraTS20_Training_203", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.8390008884436733, "dice_TC": 0.6559948257741127, "dice_ET": 0.5521517629709076}
+{"id": "BraTS20_Training_203", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.8305684760442683, "dice_TC": 0.5100104931794334, "dice_ET": 0.5076086292244698}
+{"id": "BraTS20_Training_203", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.82219513553313, "dice_TC": 0.9075167256985439, "dice_ET": 0.8821319094235143}
+{"id": "BraTS20_Training_203", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.8169606653536825, "dice_TC": 0.914108213537528, "dice_ET": 0.8797029702970297}
+{"id": "BraTS20_Training_203", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.8835295104425868, "dice_TC": 0.41028331584470096, "dice_ET": 0.35455095650343393}
+{"id": "BraTS20_Training_203", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.8813461271033236, "dice_TC": 0.40282892807091875, "dice_ET": 0.39075802646425273}
+{"id": "BraTS20_Training_203", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.8991081251901964, "dice_TC": 0.8900680747076278, "dice_ET": 0.8910013935894884}
+{"id": "BraTS20_Training_203", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.8947133877474435, "dice_TC": 0.9010817520837028, "dice_ET": 0.8841551219027757}
+{"id": "BraTS20_Training_203", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9042419882579538, "dice_TC": 0.5968352171326591, "dice_ET": 0.5350512058143376}
+{"id": "BraTS20_Training_203", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.8997790629299567, "dice_TC": 0.5338148673631713, "dice_ET": 0.522008059729468}
+{"id": "BraTS20_Training_203", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.8967080539939272, "dice_TC": 0.9039805963760879, "dice_ET": 0.8826155983330026}
+{"id": "BraTS20_Training_203", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.899317426614364, "dice_TC": 0.9066294187170947, "dice_ET": 0.8796029776674938}
+{"id": "BraTS20_Training_256", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.29457285194783356, "dice_TC": 0.19061993112840128, "dice_ET": 0.039045026613728176}
+{"id": "BraTS20_Training_256", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.7755761544349009, "dice_TC": 0.6902461029280507, "dice_ET": 0.7961066525644782}
+{"id": "BraTS20_Training_256", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.7772885471469041, "dice_TC": 0.741409145948253, "dice_ET": 0.8118759078501407}
+{"id": "BraTS20_Training_256", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.8958775404347621, "dice_TC": 0.8168081471573678, "dice_ET": 0.5793907878387405}
+{"id": "BraTS20_Training_256", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.891190854501558, "dice_TC": 0.7895253344352048, "dice_ET": 0.5266867163023076}
+{"id": "BraTS20_Training_256", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.910378520403974, "dice_TC": 0.8757587229209822, "dice_ET": 0.8299141188594985}
+{"id": "BraTS20_Training_256", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.9097978906529888, "dice_TC": 0.8871701014558158, "dice_ET": 0.8345948595077325}
+{"id": "BraTS20_Training_256", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.8997549166118716, "dice_TC": 0.7446567357512953, "dice_ET": 0.6433024643792818}
+{"id": "BraTS20_Training_256", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9118579268668681, "dice_TC": 0.6953921665420798, "dice_ET": 0.41581256983860343}
+{"id": "BraTS20_Training_256", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9096035939659464, "dice_TC": 0.7292837889872931, "dice_ET": 0.8184217583379204}
+{"id": "BraTS20_Training_256", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9231178667678179, "dice_TC": 0.7551696044681583, "dice_ET": 0.8250955637383833}
+{"id": "BraTS20_Training_256", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9230684306401458, "dice_TC": 0.8186884494999618, "dice_ET": 0.6378919920400741}
+{"id": "BraTS20_Training_256", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9285397356768881, "dice_TC": 0.8105528257691833, "dice_ET": 0.5741393478807142}
+{"id": "BraTS20_Training_256", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9271355560963738, "dice_TC": 0.8393533977576789, "dice_ET": 0.82274201051148}
+{"id": "BraTS20_Training_256", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9325020166303775, "dice_TC": 0.8602443507406206, "dice_ET": 0.8242507655782266}
+{"id": "BraTS20_Training_351", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.8105132805032512, "dice_TC": 0.30470459518599563, "dice_ET": 0.2556058569710688}
+{"id": "BraTS20_Training_351", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.7761352149910582, "dice_TC": 0.9020423423844465, "dice_ET": 0.9488643415663398}
+{"id": "BraTS20_Training_351", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.8215653375444137, "dice_TC": 0.9237951590892768, "dice_ET": 0.9471512165075454}
+{"id": "BraTS20_Training_351", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.8719828366117818, "dice_TC": 0.21526955865452238, "dice_ET": 0.21749173184944093}
+{"id": "BraTS20_Training_351", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.8897837215568128, "dice_TC": 0.3665806821438808, "dice_ET": 0.391686760822138}
+{"id": "BraTS20_Training_351", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.8982458317818874, "dice_TC": 0.9568374142506635, "dice_ET": 0.9636683638192218}
+{"id": "BraTS20_Training_351", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.8894442182410424, "dice_TC": 0.9443023026963197, "dice_ET": 0.9591057289240801}
+{"id": "BraTS20_Training_351", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.9420453490133974, "dice_TC": 0.47609767448624907, "dice_ET": 0.46737796242092344}
+{"id": "BraTS20_Training_351", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.942500911410864, "dice_TC": 0.5206704249257441, "dice_ET": 0.5310894365583907}
+{"id": "BraTS20_Training_351", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9545852367871218, "dice_TC": 0.9525175586111386, "dice_ET": 0.9644298688193743}
+{"id": "BraTS20_Training_351", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9490362774674772, "dice_TC": 0.9436198873377418, "dice_ET": 0.964225404965914}
+{"id": "BraTS20_Training_351", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9438190919310202, "dice_TC": 0.3470719126125215, "dice_ET": 0.43890971190312494}
+{"id": "BraTS20_Training_351", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9468818055830529, "dice_TC": 0.48298559554242504, "dice_ET": 0.5405844910096176}
+{"id": "BraTS20_Training_351", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9560057084774998, "dice_TC": 0.9597786441956987, "dice_ET": 0.962890870275022}
+{"id": "BraTS20_Training_351", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9530697344446203, "dice_TC": 0.9542441309873897, "dice_ET": 0.962789827973074}
+{"id": "BraTS20_Training_355", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.8342743449207899, "dice_TC": 0.7133806704134885, "dice_ET": 0.32425182821172993}
+{"id": "BraTS20_Training_355", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.8913589596091253, "dice_TC": 0.9422973215890706, "dice_ET": 0.894120384040659}
+{"id": "BraTS20_Training_355", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.8820101585116807, "dice_TC": 0.9619891934939746, "dice_ET": 0.9194921922814626}
+{"id": "BraTS20_Training_355", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.9057132071875951, "dice_TC": 0.8189886301573904, "dice_ET": 0.5697959329672885}
+{"id": "BraTS20_Training_355", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.9275485362039627, "dice_TC": 0.858817217121736, "dice_ET": 0.5312945904642896}
+{"id": "BraTS20_Training_355", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.9219818922756358, "dice_TC": 0.9694985163367504, "dice_ET": 0.9286295699762733}
+{"id": "BraTS20_Training_355", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.932020330368488, "dice_TC": 0.9693109820485745, "dice_ET": 0.9306966586967969}
+{"id": "BraTS20_Training_355", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.9333402175155724, "dice_TC": 0.7966951299502344, "dice_ET": 0.485410608643337}
+{"id": "BraTS20_Training_355", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9392063643222891, "dice_TC": 0.7886451294393533, "dice_ET": 0.4683752971594163}
+{"id": "BraTS20_Training_355", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9718271196480557, "dice_TC": 0.9694471950389724, "dice_ET": 0.9239383465011287}
+{"id": "BraTS20_Training_355", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9733924852874604, "dice_TC": 0.9683154042364422, "dice_ET": 0.9219268811159326}
+{"id": "BraTS20_Training_355", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9542954522183053, "dice_TC": 0.8622952954197073, "dice_ET": 0.5997630293291782}
+{"id": "BraTS20_Training_355", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9547780854098499, "dice_TC": 0.8505380009928646, "dice_ET": 0.5617874982684018}
+{"id": "BraTS20_Training_355", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.971404275731246, "dice_TC": 0.9712525214669151, "dice_ET": 0.9314223669923996}
+{"id": "BraTS20_Training_355", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9725034811472698, "dice_TC": 0.9667344800634157, "dice_ET": 0.9278482768185286}
+{"id": "BraTS20_Training_109", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.648090119601224, "dice_TC": 0.4153088630259624, "dice_ET": 0.31118212123005307}
+{"id": "BraTS20_Training_109", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.5608777894837659, "dice_TC": 0.9224950867863454, "dice_ET": 0.93051017296214}
+{"id": "BraTS20_Training_109", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.6633301931229393, "dice_TC": 0.9500987805708836, "dice_ET": 0.930923063487905}
+{"id": "BraTS20_Training_109", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.8443374357245216, "dice_TC": 0.7960227367997451, "dice_ET": 0.6889165934312984}
+{"id": "BraTS20_Training_109", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.8653316721258767, "dice_TC": 0.7472744011758435, "dice_ET": 0.6536440625579526}
+{"id": "BraTS20_Training_109", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.8339724086191806, "dice_TC": 0.9570423743352204, "dice_ET": 0.9309373103268881}
+{"id": "BraTS20_Training_109", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.859611433815478, "dice_TC": 0.9584831644328212, "dice_ET": 0.9287015352589123}
+{"id": "BraTS20_Training_109", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.9315068493150684, "dice_TC": 0.7462850507618196, "dice_ET": 0.660386816491917}
+{"id": "BraTS20_Training_109", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9328232314250972, "dice_TC": 0.7782721542454579, "dice_ET": 0.6777443471918307}
+{"id": "BraTS20_Training_109", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9441522392047619, "dice_TC": 0.9578388775352488, "dice_ET": 0.9335865863243384}
+{"id": "BraTS20_Training_109", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9414177984819492, "dice_TC": 0.9607897280132541, "dice_ET": 0.9320990349766386}
+{"id": "BraTS20_Training_109", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9299868836187033, "dice_TC": 0.8216208800631066, "dice_ET": 0.7162300537588532}
+{"id": "BraTS20_Training_109", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9335273850540573, "dice_TC": 0.8071539110861001, "dice_ET": 0.6860496014171833}
+{"id": "BraTS20_Training_109", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9333595439355219, "dice_TC": 0.9615889464594127, "dice_ET": 0.9295792992662701}
+{"id": "BraTS20_Training_109", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9355668297759498, "dice_TC": 0.9634755463059314, "dice_ET": 0.929425342421009}
+{"id": "BraTS20_Training_034", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.8421064053734388, "dice_TC": 0.6223834065025132, "dice_ET": 0.3729107648725212}
+{"id": "BraTS20_Training_034", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.8642029573528086, "dice_TC": 0.9299961065687746, "dice_ET": 0.8418590208052996}
+{"id": "BraTS20_Training_034", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.8786813162160192, "dice_TC": 0.9350556394340994, "dice_ET": 0.8457147567333649}
+{"id": "BraTS20_Training_034", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.8652167935992962, "dice_TC": 0.6383216297362349, "dice_ET": 0.4344900356367835}
+{"id": "BraTS20_Training_034", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.8851392201910498, "dice_TC": 0.6969240749580778, "dice_ET": 0.44014916339639587}
+{"id": "BraTS20_Training_034", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.9152859345779061, "dice_TC": 0.9328247700246802, "dice_ET": 0.8461885986528668}
+{"id": "BraTS20_Training_034", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.9160245813860255, "dice_TC": 0.9332492568237096, "dice_ET": 0.8411843048867944}
+{"id": "BraTS20_Training_034", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.9367658648253087, "dice_TC": 0.8108766709232986, "dice_ET": 0.4798249967830291}
+{"id": "BraTS20_Training_034", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9376203850168404, "dice_TC": 0.810028835345291, "dice_ET": 0.44857358082398163}
+{"id": "BraTS20_Training_034", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9457494497451876, "dice_TC": 0.938900384932025, "dice_ET": 0.8492938830328436}
+{"id": "BraTS20_Training_034", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9455084988980403, "dice_TC": 0.9402048010743663, "dice_ET": 0.845753335502766}
+{"id": "BraTS20_Training_034", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9298966829798804, "dice_TC": 0.7686217156689696, "dice_ET": 0.4963310154058934}
+{"id": "BraTS20_Training_034", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9293569897853732, "dice_TC": 0.7796884892997341, "dice_ET": 0.4720207962785607}
+{"id": "BraTS20_Training_034", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.946492180712424, "dice_TC": 0.9376559724813958, "dice_ET": 0.8409976774714732}
+{"id": "BraTS20_Training_034", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9454733462135024, "dice_TC": 0.9376355258402602, "dice_ET": 0.8363370677057964}
+{"id": "BraTS20_Training_138", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.6767397062364556, "dice_TC": 0.5070108552888473, "dice_ET": 0.3491048305371017}
+{"id": "BraTS20_Training_138", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.8348135778569212, "dice_TC": 0.7427560611841421, "dice_ET": 0.8961255292905916}
+{"id": "BraTS20_Training_138", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.8142075521548087, "dice_TC": 0.7778352146036988, "dice_ET": 0.8926379975148278}
+{"id": "BraTS20_Training_138", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.9017434775742634, "dice_TC": 0.5710548588135723, "dice_ET": 0.6197045629446103}
+{"id": "BraTS20_Training_138", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.9063086169723217, "dice_TC": 0.5490378761811493, "dice_ET": 0.5551577251865436}
+{"id": "BraTS20_Training_138", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.9183511351020252, "dice_TC": 0.7502793989817459, "dice_ET": 0.9056395319640436}
+{"id": "BraTS20_Training_138", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.9176007423054146, "dice_TC": 0.7756355674492155, "dice_ET": 0.9039628973266468}
+{"id": "BraTS20_Training_138", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.9331813831414222, "dice_TC": 0.7746573635684026, "dice_ET": 0.6399178965887987}
+{"id": "BraTS20_Training_138", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9268320400414051, "dice_TC": 0.6927833190413865, "dice_ET": 0.5689411858241736}
+{"id": "BraTS20_Training_138", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9321000349373977, "dice_TC": 0.7905725141236459, "dice_ET": 0.8955231497429224}
+{"id": "BraTS20_Training_138", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.930775984665801, "dice_TC": 0.7896673286226696, "dice_ET": 0.8942676783778614}
+{"id": "BraTS20_Training_138", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9343608796799211, "dice_TC": 0.6890015776425513, "dice_ET": 0.6645772012064391}
+{"id": "BraTS20_Training_138", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9341658008647475, "dice_TC": 0.6569742629695173, "dice_ET": 0.6274250148977024}
+{"id": "BraTS20_Training_138", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9350461709331983, "dice_TC": 0.7906131443240418, "dice_ET": 0.9039740918334045}
+{"id": "BraTS20_Training_138", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9360665411389073, "dice_TC": 0.7902403495994174, "dice_ET": 0.9018669339681744}
+{"id": "BraTS20_Training_206", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.6493780307822054, "dice_TC": 0.3625623790610042, "dice_ET": 0.41280202137179556}
+{"id": "BraTS20_Training_206", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.5660867000884695, "dice_TC": 0.3852477393318885, "dice_ET": 0.914598961338719}
+{"id": "BraTS20_Training_206", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.6948377707388066, "dice_TC": 0.5232325255357501, "dice_ET": 0.9313426971810235}
+{"id": "BraTS20_Training_206", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.7648688585149612, "dice_TC": 0.3659264169705005, "dice_ET": 0.3952868565016131}
+{"id": "BraTS20_Training_206", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.7620051074164688, "dice_TC": 0.3742786479802143, "dice_ET": 0.4415803929854215}
+{"id": "BraTS20_Training_206", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.7729612261237562, "dice_TC": 0.6853562005277045, "dice_ET": 0.9283561777000097}
+{"id": "BraTS20_Training_206", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.7696638702775744, "dice_TC": 0.6192622464713557, "dice_ET": 0.9291245956278796}
+{"id": "BraTS20_Training_206", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.6862460973095711, "dice_TC": 0.29591650992051455, "dice_ET": 0.2950072123214369}
+{"id": "BraTS20_Training_206", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.7309494767927072, "dice_TC": 0.3675618746708794, "dice_ET": 0.4502014968336212}
+{"id": "BraTS20_Training_206", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.7295688019367925, "dice_TC": 0.6455113242066747, "dice_ET": 0.9237738822139059}
+{"id": "BraTS20_Training_206", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.7479865716317452, "dice_TC": 0.5960689931809066, "dice_ET": 0.9245933957614588}
+{"id": "BraTS20_Training_206", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.7632510024598174, "dice_TC": 0.35452556740497676, "dice_ET": 0.4128547742124256}
+{"id": "BraTS20_Training_206", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.7679356278314964, "dice_TC": 0.3942329523953682, "dice_ET": 0.47848617176128094}
+{"id": "BraTS20_Training_206", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.7800111087967785, "dice_TC": 0.7446500867553499, "dice_ET": 0.9226546417017939}
+{"id": "BraTS20_Training_206", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.7843028013301531, "dice_TC": 0.7041948579161028, "dice_ET": 0.9229406554472985}
+{"id": "BraTS20_Training_162", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.717231313329778, "dice_TC": 0.4424960906697318, "dice_ET": 0.3199540121056369}
+{"id": "BraTS20_Training_162", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.7588740965345883, "dice_TC": 0.9563616232609637, "dice_ET": 0.9291638746184201}
+{"id": "BraTS20_Training_162", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.743889854592611, "dice_TC": 0.952564457664471, "dice_ET": 0.9287661384537039}
+{"id": "BraTS20_Training_162", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.8371029985347834, "dice_TC": 0.631289614057107, "dice_ET": 0.4746670970865951}
+{"id": "BraTS20_Training_162", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.871445208683794, "dice_TC": 0.6333737569730779, "dice_ET": 0.4875787853030327}
+{"id": "BraTS20_Training_162", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.8642886673939141, "dice_TC": 0.9588776810489585, "dice_ET": 0.9342983751846381}
+{"id": "BraTS20_Training_162", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.8599009724646457, "dice_TC": 0.9537910019716795, "dice_ET": 0.9311166016729676}
+{"id": "BraTS20_Training_162", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.944091339373684, "dice_TC": 0.652760599476294, "dice_ET": 0.5110636896151698}
+{"id": "BraTS20_Training_162", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.942566943674977, "dice_TC": 0.5346958877123861, "dice_ET": 0.37498209596562426}
+{"id": "BraTS20_Training_162", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9512536809903651, "dice_TC": 0.9624851631158057, "dice_ET": 0.9366053777665473}
+{"id": "BraTS20_Training_162", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.943978446166296, "dice_TC": 0.9623721633888048, "dice_ET": 0.9344394860582826}
+{"id": "BraTS20_Training_162", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9423660459883203, "dice_TC": 0.704420673987126, "dice_ET": 0.5549318600368324}
+{"id": "BraTS20_Training_162", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9428762554870338, "dice_TC": 0.6480389518240317, "dice_ET": 0.49322227148919995}
+{"id": "BraTS20_Training_162", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9451014288404614, "dice_TC": 0.9643483062444482, "dice_ET": 0.9361201673291352}
+{"id": "BraTS20_Training_162", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.940826787767751, "dice_TC": 0.9630587410728312, "dice_ET": 0.9328319074659515}
+{"id": "BraTS20_Training_017", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.8274122711658042, "dice_TC": 0.3109550707363839, "dice_ET": 0.2313887252013357}
+{"id": "BraTS20_Training_017", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.8112459615711614, "dice_TC": 0.8401321600314043, "dice_ET": 0.8090273664257789}
+{"id": "BraTS20_Training_017", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.827738778983195, "dice_TC": 0.8441656046792798, "dice_ET": 0.8314443299593914}
+{"id": "BraTS20_Training_017", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.8750419072452971, "dice_TC": 0.47354172621950197, "dice_ET": 0.35909757701451767}
+{"id": "BraTS20_Training_017", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.8771637862929427, "dice_TC": 0.43808615482435226, "dice_ET": 0.3564939219449776}
+{"id": "BraTS20_Training_017", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.8995681960968118, "dice_TC": 0.85212242139478, "dice_ET": 0.8143901725650775}
+{"id": "BraTS20_Training_017", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.8971518907932047, "dice_TC": 0.8503143847042217, "dice_ET": 0.8111046171829339}
+{"id": "BraTS20_Training_017", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.892697095059653, "dice_TC": 0.5036190609719764, "dice_ET": 0.35039668502703525}
+{"id": "BraTS20_Training_017", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9004796107827193, "dice_TC": 0.4789658652005985, "dice_ET": 0.38283208020050125}
+{"id": "BraTS20_Training_017", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9161249629319312, "dice_TC": 0.8472634967805844, "dice_ET": 0.782913323539383}
+{"id": "BraTS20_Training_017", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9164673457159976, "dice_TC": 0.855795322393074, "dice_ET": 0.7993281982973302}
+{"id": "BraTS20_Training_017", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9022254735515098, "dice_TC": 0.5368273280299485, "dice_ET": 0.3623810984964713}
+{"id": "BraTS20_Training_017", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9011931670804462, "dice_TC": 0.5073615965519115, "dice_ET": 0.3822316870068529}
+{"id": "BraTS20_Training_017", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9195691134775311, "dice_TC": 0.8362650602409638, "dice_ET": 0.7555555555555555}
+{"id": "BraTS20_Training_017", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.918487310277979, "dice_TC": 0.8499670774151068, "dice_ET": 0.7781931811840858}
+{"id": "BraTS20_Training_118", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.7459080751343843, "dice_TC": 0.39370551807006193, "dice_ET": 0.3252223143567895}
+{"id": "BraTS20_Training_118", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.7665241162778108, "dice_TC": 0.9476039530113742, "dice_ET": 0.9376336421952958}
+{"id": "BraTS20_Training_118", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.7974636713049555, "dice_TC": 0.9560901829181832, "dice_ET": 0.9386341929321872}
+{"id": "BraTS20_Training_118", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.867293485560779, "dice_TC": 0.6102240301135329, "dice_ET": 0.5485710287893099}
+{"id": "BraTS20_Training_118", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.8946033144093516, "dice_TC": 0.6336035606421873, "dice_ET": 0.5752308324922433}
+{"id": "BraTS20_Training_118", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.8594142612808547, "dice_TC": 0.9551463644948064, "dice_ET": 0.9331913130954494}
+{"id": "BraTS20_Training_118", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.8730127289596864, "dice_TC": 0.9560251284980011, "dice_ET": 0.9288220253315098}
+{"id": "BraTS20_Training_118", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.9432118036198759, "dice_TC": 0.6198031980319804, "dice_ET": 0.5821777676744715}
+{"id": "BraTS20_Training_118", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9342864149538143, "dice_TC": 0.6654316903738009, "dice_ET": 0.6248343273691186}
+{"id": "BraTS20_Training_118", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9392921146953405, "dice_TC": 0.9470801225512951, "dice_ET": 0.9349674544068493}
+{"id": "BraTS20_Training_118", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9374683591772448, "dice_TC": 0.9534546475183608, "dice_ET": 0.9322083553055605}
+{"id": "BraTS20_Training_118", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.945594833574258, "dice_TC": 0.6890013930889198, "dice_ET": 0.6290689779126892}
+{"id": "BraTS20_Training_118", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9440618581611695, "dice_TC": 0.7285285502477127, "dice_ET": 0.6701262757308424}
+{"id": "BraTS20_Training_118", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9400906611348008, "dice_TC": 0.9531381535871294, "dice_ET": 0.9265030817536923}
+{"id": "BraTS20_Training_118", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9411031294656986, "dice_TC": 0.956509460604349, "dice_ET": 0.9264362447454461}
+{"id": "BraTS20_Training_029", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.7614779473107233, "dice_TC": 0.25624675099636113, "dice_ET": 0.2620289855072464}
+{"id": "BraTS20_Training_029", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.6198592071137459, "dice_TC": 0.7103953147877013, "dice_ET": 0.8909853249475891}
+{"id": "BraTS20_Training_029", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.7497025217553367, "dice_TC": 0.8540987424312995, "dice_ET": 0.8871106522113233}
+{"id": "BraTS20_Training_029", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.8466302309035638, "dice_TC": 0.46379672674011335, "dice_ET": 0.46115702479338844}
+{"id": "BraTS20_Training_029", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.8605089757619502, "dice_TC": 0.39860875192105477, "dice_ET": 0.4624286878565607}
+{"id": "BraTS20_Training_029", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.8673861349917688, "dice_TC": 0.9209802290613603, "dice_ET": 0.8874893617021277}
+{"id": "BraTS20_Training_029", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.854956120017243, "dice_TC": 0.900645001240387, "dice_ET": 0.8827888177837656}
+{"id": "BraTS20_Training_029", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.9247212405676271, "dice_TC": 0.3880468480881846, "dice_ET": 0.3915691236950332}
+{"id": "BraTS20_Training_029", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9276281446969638, "dice_TC": 0.41207243460764587, "dice_ET": 0.444350936250789}
+{"id": "BraTS20_Training_029", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9315303440554554, "dice_TC": 0.899608041471741, "dice_ET": 0.8736115785930663}
+{"id": "BraTS20_Training_029", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9291548379934341, "dice_TC": 0.9056222362602653, "dice_ET": 0.8732701501300009}
+{"id": "BraTS20_Training_029", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9303959994593864, "dice_TC": 0.4611678550780497, "dice_ET": 0.4557546259388243}
+{"id": "BraTS20_Training_029", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9309881210357318, "dice_TC": 0.5008775854355233, "dice_ET": 0.5201326385599242}
+{"id": "BraTS20_Training_029", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9347628772407534, "dice_TC": 0.9107759171673271, "dice_ET": 0.8701760185108669}
+{"id": "BraTS20_Training_029", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9327062170178033, "dice_TC": 0.9126473399171711, "dice_ET": 0.870492887859742}
+{"id": "BraTS20_Training_167", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.4920316774282002, "dice_TC": 0.33320417241432754, "dice_ET": 0.2606162744730874}
+{"id": "BraTS20_Training_167", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.610439564404737, "dice_TC": 0.8174471119562634, "dice_ET": 0.8093962812763027}
+{"id": "BraTS20_Training_167", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.604250972380466, "dice_TC": 0.8532914487941626, "dice_ET": 0.8303810244764067}
+{"id": "BraTS20_Training_167", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.8675691274463508, "dice_TC": 0.6490126108088033, "dice_ET": 0.5100120627261762}
+{"id": "BraTS20_Training_167", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.8607025982730749, "dice_TC": 0.632432773639692, "dice_ET": 0.5312332917483514}
+{"id": "BraTS20_Training_167", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.8112520900954067, "dice_TC": 0.8544371766084154, "dice_ET": 0.8127105211016445}
+{"id": "BraTS20_Training_167", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.8067889052352076, "dice_TC": 0.8675847250708077, "dice_ET": 0.8246109624343344}
+{"id": "BraTS20_Training_167", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.9258543124895265, "dice_TC": 0.688911970916645, "dice_ET": 0.5540373746778978}
+{"id": "BraTS20_Training_167", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9279821076790045, "dice_TC": 0.6861963033995825, "dice_ET": 0.5480143888319794}
+{"id": "BraTS20_Training_167", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9141352615239517, "dice_TC": 0.8698495748855462, "dice_ET": 0.8256676006049937}
+{"id": "BraTS20_Training_167", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9044665672913118, "dice_TC": 0.8737436696532918, "dice_ET": 0.8330954348533794}
+{"id": "BraTS20_Training_167", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.922597416034039, "dice_TC": 0.6664661352584349, "dice_ET": 0.5286644362058053}
+{"id": "BraTS20_Training_167", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9242047746048266, "dice_TC": 0.6782879964347542, "dice_ET": 0.5465459650481677}
+{"id": "BraTS20_Training_167", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9083339371940896, "dice_TC": 0.8737754844716882, "dice_ET": 0.8248755479604726}
+{"id": "BraTS20_Training_167", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9042355433848368, "dice_TC": 0.8748385581777621, "dice_ET": 0.8308315821074752}
+{"id": "BraTS20_Training_113", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.833621412732317, "dice_TC": 0.1168962106224319, "dice_ET": 0.1511415429207536}
+{"id": "BraTS20_Training_113", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.8142358621349013, "dice_TC": 0.5619759800589168, "dice_ET": 0.7950270959515461}
+{"id": "BraTS20_Training_113", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.8680050395212455, "dice_TC": 0.1900287966491172, "dice_ET": 0.7049774555742198}
+{"id": "BraTS20_Training_113", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.9351579976314454, "dice_TC": 0.20335947631692708, "dice_ET": 0.19527653766972775}
+{"id": "BraTS20_Training_113", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.9070393900889454, "dice_TC": 0.1448306938201321, "dice_ET": 0.16328345512894868}
+{"id": "BraTS20_Training_113", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.9463714993212821, "dice_TC": 0.37074314471163466, "dice_ET": 0.7106778910057598}
+{"id": "BraTS20_Training_113", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.9311421490985426, "dice_TC": 0.27730932606352626, "dice_ET": 0.6613786899991823}
+{"id": "BraTS20_Training_113", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.9451820225397161, "dice_TC": 0.18188905129811372, "dice_ET": 0.1481836848266201}
+{"id": "BraTS20_Training_113", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9369488486749958, "dice_TC": 0.1545917645394085, "dice_ET": 0.14618847317541142}
+{"id": "BraTS20_Training_113", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9582298608945409, "dice_TC": 0.6063167893611968, "dice_ET": 0.7258450636790195}
+{"id": "BraTS20_Training_113", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9525605087746806, "dice_TC": 0.40750180937096825, "dice_ET": 0.7114007710666422}
+{"id": "BraTS20_Training_113", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9470801748004789, "dice_TC": 0.20367663068835734, "dice_ET": 0.17708620799456556}
+{"id": "BraTS20_Training_113", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9396047537386641, "dice_TC": 0.16633208338068003, "dice_ET": 0.16168840002332044}
+{"id": "BraTS20_Training_113", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9601944627427413, "dice_TC": 0.49729060226041183, "dice_ET": 0.6784696433198031}
+{"id": "BraTS20_Training_113", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9545744725585165, "dice_TC": 0.3903483637460413, "dice_ET": 0.6616566466265865}
+{"id": "BraTS20_Training_139", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.009333626418220862, "dice_TC": 0.0, "dice_ET": 0.0}
+{"id": "BraTS20_Training_139", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.2928472897492142, "dice_TC": 0.15777044567638634, "dice_ET": 0.4159569699686239}
+{"id": "BraTS20_Training_139", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.3745631565462465, "dice_TC": 0.23965164199994815, "dice_ET": 0.5326737828690445}
+{"id": "BraTS20_Training_139", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.5407155025553663, "dice_TC": 0.21681767604514385, "dice_ET": 0.21592164371455924}
+{"id": "BraTS20_Training_139", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.5692581889913655, "dice_TC": 0.24900492477905958, "dice_ET": 0.2797877045555064}
+{"id": "BraTS20_Training_139", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.48327676882820797, "dice_TC": 0.28190234162279904, "dice_ET": 0.6113055783123557}
+{"id": "BraTS20_Training_139", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.4932018486672399, "dice_TC": 0.2969938193702877, "dice_ET": 0.6028942486085344}
+{"id": "BraTS20_Training_139", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.8424459129175341, "dice_TC": 0.3783958602846054, "dice_ET": 0.3308559098537521}
+{"id": "BraTS20_Training_139", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.8493138235026811, "dice_TC": 0.3980439521593119, "dice_ET": 0.3429245979046776}
+{"id": "BraTS20_Training_139", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.8112154222510297, "dice_TC": 0.8430791341058116, "dice_ET": 0.8663726571113561}
+{"id": "BraTS20_Training_139", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.8336702653877586, "dice_TC": 0.856082397698803, "dice_ET": 0.8603856749311295}
+{"id": "BraTS20_Training_139", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.8566883586406363, "dice_TC": 0.42228399351401436, "dice_ET": 0.40305473058973273}
+{"id": "BraTS20_Training_139", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.8587964610166275, "dice_TC": 0.41829754327523644, "dice_ET": 0.3922420031842524}
+{"id": "BraTS20_Training_139", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.8462257017036608, "dice_TC": 0.8681495504022716, "dice_ET": 0.8573321554770318}
+{"id": "BraTS20_Training_139", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.8521999910478493, "dice_TC": 0.8664507525242904, "dice_ET": 0.8528601344648958}
+{"id": "BraTS20_Training_195", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.726705907677234, "dice_TC": 0.7045042192808348, "dice_ET": 0.5333356191390513}
+{"id": "BraTS20_Training_195", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.8031506884615054, "dice_TC": 0.9079833871712044, "dice_ET": 0.83554615181169}
+{"id": "BraTS20_Training_195", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.8036666527144113, "dice_TC": 0.9273827301137676, "dice_ET": 0.8502813086059596}
+{"id": "BraTS20_Training_195", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.7362212731340249, "dice_TC": 0.4831569125832502, "dice_ET": 0.3734961555857078}
+{"id": "BraTS20_Training_195", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.8186687859302914, "dice_TC": 0.5885135240959138, "dice_ET": 0.4143768894860598}
+{"id": "BraTS20_Training_195", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.8829780761352344, "dice_TC": 0.8936726249308964, "dice_ET": 0.789929495364459}
+{"id": "BraTS20_Training_195", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.8998755493330222, "dice_TC": 0.9264239994827698, "dice_ET": 0.8298797237112302}
+{"id": "BraTS20_Training_195", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.879157572892675, "dice_TC": 0.7055076003895097, "dice_ET": 0.4401828870019595}
+{"id": "BraTS20_Training_195", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.8988023548228583, "dice_TC": 0.7752910400954581, "dice_ET": 0.5034355304932948}
+{"id": "BraTS20_Training_195", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9198660887065563, "dice_TC": 0.9179458147998383, "dice_ET": 0.806645864126567}
+{"id": "BraTS20_Training_195", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9177111302978264, "dice_TC": 0.9269558296856347, "dice_ET": 0.8259667766953814}
+{"id": "BraTS20_Training_195", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.8016339432794621, "dice_TC": 0.5162036643247198, "dice_ET": 0.43488097332897613}
+{"id": "BraTS20_Training_195", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.856299314918965, "dice_TC": 0.6360865437465647, "dice_ET": 0.4322998773865826}
+{"id": "BraTS20_Training_195", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9122970401263312, "dice_TC": 0.8847649286041734, "dice_ET": 0.7754963898916968}
+{"id": "BraTS20_Training_195", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9225026661926768, "dice_TC": 0.9127465857359636, "dice_ET": 0.8051193510372989}
+{"id": "BraTS20_Training_237", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.4957783296301137, "dice_TC": 0.052616231387486556, "dice_ET": 0.05154909180545071}
+{"id": "BraTS20_Training_237", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.6853278913222259, "dice_TC": 0.45100372028024854, "dice_ET": 0.8262687172211103}
+{"id": "BraTS20_Training_237", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.6745137139240809, "dice_TC": 0.5136312413314841, "dice_ET": 0.8215845132631685}
+{"id": "BraTS20_Training_237", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.9301184232680831, "dice_TC": 0.4881943166074041, "dice_ET": 0.46268224109446104}
+{"id": "BraTS20_Training_237", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.9146363129552597, "dice_TC": 0.4194077936670968, "dice_ET": 0.4183226858773957}
+{"id": "BraTS20_Training_237", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.9100030404378231, "dice_TC": 0.6510178965181272, "dice_ET": 0.8086574654956086}
+{"id": "BraTS20_Training_237", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.8809183094421554, "dice_TC": 0.6412211786984672, "dice_ET": 0.8047726010192499}
+{"id": "BraTS20_Training_237", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.9504292404971839, "dice_TC": 0.48703943993482, "dice_ET": 0.4450963956412406}
+{"id": "BraTS20_Training_237", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9483445109432741, "dice_TC": 0.412338224264918, "dice_ET": 0.39616135725619434}
+{"id": "BraTS20_Training_237", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9351252529130231, "dice_TC": 0.7041213117952864, "dice_ET": 0.8261246317248893}
+{"id": "BraTS20_Training_237", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9007977927936177, "dice_TC": 0.6442346297807308, "dice_ET": 0.8247140726006962}
+{"id": "BraTS20_Training_237", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9547062831022131, "dice_TC": 0.505357467159029, "dice_ET": 0.46247880788792717}
+{"id": "BraTS20_Training_237", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9570635302347952, "dice_TC": 0.4566161346842386, "dice_ET": 0.43829034253571375}
+{"id": "BraTS20_Training_237", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9496121322244742, "dice_TC": 0.713890856563468, "dice_ET": 0.8069518459839646}
+{"id": "BraTS20_Training_237", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9440890739338885, "dice_TC": 0.6734404599467458, "dice_ET": 0.8036674347158218}
+{"id": "BraTS20_Training_084", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.7740841694496613, "dice_TC": 0.6493388165185058, "dice_ET": 0.47797430646062183}
+{"id": "BraTS20_Training_084", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.7946175637393768, "dice_TC": 0.8980691056910569, "dice_ET": 0.8125118663375736}
+{"id": "BraTS20_Training_084", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.8125155688409665, "dice_TC": 0.8991474879536341, "dice_ET": 0.8054954361531947}
+{"id": "BraTS20_Training_084", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.8851966737064414, "dice_TC": 0.7636684015597722, "dice_ET": 0.5715094380701488}
+{"id": "BraTS20_Training_084", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.8714613866511373, "dice_TC": 0.7600539480137323, "dice_ET": 0.5565206174485101}
+{"id": "BraTS20_Training_084", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.8894911436289563, "dice_TC": 0.8975728483537286, "dice_ET": 0.8014199304047269}
+{"id": "BraTS20_Training_084", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.8886768336455798, "dice_TC": 0.8980549739987843, "dice_ET": 0.7984158415841585}
+{"id": "BraTS20_Training_084", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.9293402440158619, "dice_TC": 0.8010479724012237, "dice_ET": 0.6096938209107662}
+{"id": "BraTS20_Training_084", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9304295528279671, "dice_TC": 0.8196267449423773, "dice_ET": 0.6189503637239828}
+{"id": "BraTS20_Training_084", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9216398546964193, "dice_TC": 0.9031319759182845, "dice_ET": 0.8078459008691566}
+{"id": "BraTS20_Training_084", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9208910027202272, "dice_TC": 0.9043590527639045, "dice_ET": 0.8066503621484338}
+{"id": "BraTS20_Training_084", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9274584648718187, "dice_TC": 0.8157178282206461, "dice_ET": 0.6243913538111491}
+{"id": "BraTS20_Training_084", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.928500437475047, "dice_TC": 0.8330211683217302, "dice_ET": 0.6359512000188053}
+{"id": "BraTS20_Training_084", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9211175090637662, "dice_TC": 0.902745684382221, "dice_ET": 0.8016415230722597}
+{"id": "BraTS20_Training_084", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9209712646139352, "dice_TC": 0.905019727066218, "dice_ET": 0.8028000842834734}
+{"id": "BraTS20_Training_126", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.6971758695600276, "dice_TC": 0.7467582797410813, "dice_ET": 0.6162901768426488}
+{"id": "BraTS20_Training_126", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.6845735126760177, "dice_TC": 0.9007551992564192, "dice_ET": 0.9126097246771923}
+{"id": "BraTS20_Training_126", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.7364520881653611, "dice_TC": 0.914312773765834, "dice_ET": 0.9176114890400605}
+{"id": "BraTS20_Training_126", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.8592795584638435, "dice_TC": 0.7438679587250188, "dice_ET": 0.6521281571562207}
+{"id": "BraTS20_Training_126", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.8570319977236865, "dice_TC": 0.8087301394194506, "dice_ET": 0.6864459161147903}
+{"id": "BraTS20_Training_126", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.8373032812544466, "dice_TC": 0.9123969305562175, "dice_ET": 0.9148558891593784}
+{"id": "BraTS20_Training_126", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.8357795545402628, "dice_TC": 0.9198567755268786, "dice_ET": 0.915763740077868}
+{"id": "BraTS20_Training_126", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.9013620218230138, "dice_TC": 0.6917142379439654, "dice_ET": 0.5905159192687566}
+{"id": "BraTS20_Training_126", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9102027183268673, "dice_TC": 0.7631851608501176, "dice_ET": 0.6201064234131509}
+{"id": "BraTS20_Training_126", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9113548302357655, "dice_TC": 0.904265581253088, "dice_ET": 0.9141546724600947}
+{"id": "BraTS20_Training_126", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9063167449807774, "dice_TC": 0.9141521360589653, "dice_ET": 0.9121709827256443}
+{"id": "BraTS20_Training_126", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9050203012939704, "dice_TC": 0.7405661523508686, "dice_ET": 0.6373156786036713}
+{"id": "BraTS20_Training_126", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9090422208337052, "dice_TC": 0.7806171028590545, "dice_ET": 0.6456857950395376}
+{"id": "BraTS20_Training_126", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9109450066107264, "dice_TC": 0.9074021012416428, "dice_ET": 0.9088333684940176}
+{"id": "BraTS20_Training_126", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9095462073534283, "dice_TC": 0.9152501448715472, "dice_ET": 0.9074344023323615}
+{"id": "BraTS20_Training_350", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.7749250935517581, "dice_TC": 0.17193331674545906, "dice_ET": 0.05041990908390477}
+{"id": "BraTS20_Training_350", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.7948446987863663, "dice_TC": 0.9707139654227492, "dice_ET": 0.9474627796398783}
+{"id": "BraTS20_Training_350", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.8435304510067779, "dice_TC": 0.9717813402369809, "dice_ET": 0.9513173784882286}
+{"id": "BraTS20_Training_350", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.9189695808581313, "dice_TC": 0.8248559205915885, "dice_ET": 0.6779734227710446}
+{"id": "BraTS20_Training_350", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.9063186056226613, "dice_TC": 0.7386909131981703, "dice_ET": 0.6696224401646426}
+{"id": "BraTS20_Training_350", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.9285217904753253, "dice_TC": 0.9795157160426622, "dice_ET": 0.9631978053262248}
+{"id": "BraTS20_Training_350", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.9255478255401903, "dice_TC": 0.978000663296584, "dice_ET": 0.9625451729478575}
+{"id": "BraTS20_Training_350", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.9505701291545653, "dice_TC": 0.7842477933331178, "dice_ET": 0.5641662365201379}
+{"id": "BraTS20_Training_350", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9478429740602026, "dice_TC": 0.6184531938220077, "dice_ET": 0.48089163274783514}
+{"id": "BraTS20_Training_350", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9699997250203943, "dice_TC": 0.9774647313885553, "dice_ET": 0.9552506596306068}
+{"id": "BraTS20_Training_350", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.967229240479812, "dice_TC": 0.9783427590898476, "dice_ET": 0.9565787919744906}
+{"id": "BraTS20_Training_350", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9565148647454648, "dice_TC": 0.8385036297442828, "dice_ET": 0.6590174360061476}
+{"id": "BraTS20_Training_350", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9514967494021757, "dice_TC": 0.8043823808660217, "dice_ET": 0.6520252604480914}
+{"id": "BraTS20_Training_350", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9744559203246035, "dice_TC": 0.9762916071063916, "dice_ET": 0.9555172683843683}
+{"id": "BraTS20_Training_350", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9720596122726836, "dice_TC": 0.9767024907044263, "dice_ET": 0.9559437557720574}
+{"id": "BraTS20_Training_088", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.6160371277555756, "dice_TC": 0.5995918259164038, "dice_ET": 0.5102229868325283}
+{"id": "BraTS20_Training_088", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.5740001410735699, "dice_TC": 0.793074539821396, "dice_ET": 0.848374454931832}
+{"id": "BraTS20_Training_088", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.6745866056930775, "dice_TC": 0.917361955473565, "dice_ET": 0.8574743122306927}
+{"id": "BraTS20_Training_088", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.7808739942422677, "dice_TC": 0.636000694323902, "dice_ET": 0.5221449038067949}
+{"id": "BraTS20_Training_088", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.7973552227409194, "dice_TC": 0.7028589337326322, "dice_ET": 0.6045053705019434}
+{"id": "BraTS20_Training_088", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.7907046085611524, "dice_TC": 0.9227497613054423, "dice_ET": 0.862628750559785}
+{"id": "BraTS20_Training_088", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.7957277861656321, "dice_TC": 0.9184803942949361, "dice_ET": 0.8588400112076212}
+{"id": "BraTS20_Training_088", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.8322089697231367, "dice_TC": 0.779892708126366, "dice_ET": 0.6436454254182983}
+{"id": "BraTS20_Training_088", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.8274746337946436, "dice_TC": 0.7841169149235154, "dice_ET": 0.6240892417466459}
+{"id": "BraTS20_Training_088", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.8238724243986559, "dice_TC": 0.903774916210972, "dice_ET": 0.8378316297232112}
+{"id": "BraTS20_Training_088", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.8193455604282442, "dice_TC": 0.9044889320045859, "dice_ET": 0.8375451263537906}
+{"id": "BraTS20_Training_088", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.8374055257347001, "dice_TC": 0.7535413019258316, "dice_ET": 0.6258070827626687}
+{"id": "BraTS20_Training_088", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.8355964218254393, "dice_TC": 0.7897649863760218, "dice_ET": 0.62118906438579}
+{"id": "BraTS20_Training_088", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.834233546110899, "dice_TC": 0.90504384988648, "dice_ET": 0.8458124715521165}
+{"id": "BraTS20_Training_088", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.8298104558518572, "dice_TC": 0.9018925191930013, "dice_ET": 0.8406740931162525}
+{"id": "BraTS20_Training_037", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.8478655677975407, "dice_TC": 0.3548885943318816, "dice_ET": 0.3483696184352254}
+{"id": "BraTS20_Training_037", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.7571360989217142, "dice_TC": 0.9078178808577028, "dice_ET": 0.8518997993397631}
+{"id": "BraTS20_Training_037", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.8447349960447171, "dice_TC": 0.8229978916368261, "dice_ET": 0.8365532991790631}
+{"id": "BraTS20_Training_037", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.8980290041313697, "dice_TC": 0.5426105002870137, "dice_ET": 0.4318762955229752}
+{"id": "BraTS20_Training_037", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.921856442841574, "dice_TC": 0.4064157886486085, "dice_ET": 0.3702730402333587}
+{"id": "BraTS20_Training_037", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.8633140865276312, "dice_TC": 0.8671949286846276, "dice_ET": 0.8296572683778173}
+{"id": "BraTS20_Training_037", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.893199254350817, "dice_TC": 0.8276899421733462, "dice_ET": 0.8131274584629836}
+{"id": "BraTS20_Training_037", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.9193151304367244, "dice_TC": 0.49430249135155074, "dice_ET": 0.4217557251908397}
+{"id": "BraTS20_Training_037", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9345363298550645, "dice_TC": 0.4271559951414194, "dice_ET": 0.3720470649418189}
+{"id": "BraTS20_Training_037", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.8907604412923562, "dice_TC": 0.8824308838275319, "dice_ET": 0.8370953101361573}
+{"id": "BraTS20_Training_037", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9101984918483665, "dice_TC": 0.8481628735947354, "dice_ET": 0.8232080289803433}
+{"id": "BraTS20_Training_037", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.9177647210094086, "dice_TC": 0.5589944799829115, "dice_ET": 0.4512039415378607}
+{"id": "BraTS20_Training_037", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9324076975083686, "dice_TC": 0.4537915016961861, "dice_ET": 0.3864241291109986}
+{"id": "BraTS20_Training_037", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.891080406731834, "dice_TC": 0.8628790519344719, "dice_ET": 0.8150095326130915}
+{"id": "BraTS20_Training_037", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9069060867784112, "dice_TC": 0.8393065539112051, "dice_ET": 0.8048794423494458}
+{"id": "BraTS20_Training_137", "grade": 1, "subset": 1, "present": ["t1"], "dice_WT": 0.6648362424004707, "dice_TC": 0.32738172172061275, "dice_ET": 0.19917648958501533}
+{"id": "BraTS20_Training_137", "grade": 1, "subset": 2, "present": ["t1ce"], "dice_WT": 0.8313089797315371, "dice_TC": 0.9333759117953545, "dice_ET": 0.8796411088815327}
+{"id": "BraTS20_Training_137", "grade": 1, "subset": 3, "present": ["t1", "t1ce"], "dice_WT": 0.7917594821271061, "dice_TC": 0.9198936576720136, "dice_ET": 0.8637537190489071}
+{"id": "BraTS20_Training_137", "grade": 1, "subset": 4, "present": ["t2"], "dice_WT": 0.8957063847644128, "dice_TC": 0.7210335082761405, "dice_ET": 0.5905602941033447}
+{"id": "BraTS20_Training_137", "grade": 1, "subset": 5, "present": ["t1", "t2"], "dice_WT": 0.8724752666844053, "dice_TC": 0.6380455835322734, "dice_ET": 0.5844474809992052}
+{"id": "BraTS20_Training_137", "grade": 1, "subset": 6, "present": ["t1ce", "t2"], "dice_WT": 0.9093138482877191, "dice_TC": 0.9185774336462375, "dice_ET": 0.8653761007526934}
+{"id": "BraTS20_Training_137", "grade": 1, "subset": 7, "present": ["t1", "t1ce", "t2"], "dice_WT": 0.8920580381031874, "dice_TC": 0.9099391513082867, "dice_ET": 0.8511297332340865}
+{"id": "BraTS20_Training_137", "grade": 1, "subset": 8, "present": ["flair"], "dice_WT": 0.9366518421804235, "dice_TC": 0.7398547391019475, "dice_ET": 0.6068801787543059}
+{"id": "BraTS20_Training_137", "grade": 1, "subset": 9, "present": ["t1", "flair"], "dice_WT": 0.9240292273932091, "dice_TC": 0.6320633497684147, "dice_ET": 0.505921070624379}
+{"id": "BraTS20_Training_137", "grade": 1, "subset": 10, "present": ["t1ce", "flair"], "dice_WT": 0.9316776364872258, "dice_TC": 0.9454481167814389, "dice_ET": 0.8884875036829227}
+{"id": "BraTS20_Training_137", "grade": 1, "subset": 11, "present": ["t1", "t1ce", "flair"], "dice_WT": 0.9303048487109208, "dice_TC": 0.9338501547172295, "dice_ET": 0.8749937696256791}
+{"id": "BraTS20_Training_137", "grade": 1, "subset": 12, "present": ["t2", "flair"], "dice_WT": 0.934346877377139, "dice_TC": 0.7457170512464718, "dice_ET": 0.6200289011619851}
+{"id": "BraTS20_Training_137", "grade": 1, "subset": 13, "present": ["t1", "t2", "flair"], "dice_WT": 0.9285192442231189, "dice_TC": 0.6805343347507808, "dice_ET": 0.6103862783294531}
+{"id": "BraTS20_Training_137", "grade": 1, "subset": 14, "present": ["t1ce", "t2", "flair"], "dice_WT": 0.9350160105481258, "dice_TC": 0.9264191180061534, "dice_ET": 0.8716830603800698}
+{"id": "BraTS20_Training_137", "grade": 1, "subset": 15, "present": ["t1", "t1ce", "t2", "flair"], "dice_WT": 0.9313622131924836, "dice_TC": 0.9174078984371862, "dice_ET": 0.8596199380729768}

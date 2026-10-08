@@ -7,6 +7,7 @@ data_sample/
 *.npy
 *.npz
 *.pt
+!checkpoints/*.pt
 *.pth
 runs/
 

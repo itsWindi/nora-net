@@ -1,8 +1,9 @@
 """CPU/GPU inference for NORA-Net / baseline checkpoints on raw BraTS 2020 NIfTI cases.
 
 Usage:
-    python infer.py --cases <folder with BraTS20_Training_XXX/ case folders> --ckpt nora_v3_last.pt baseline_v3_last.pt
-Each case folder holds BraTS20_Training_XXX_{t1,t1ce,t2,flair}[,_seg].nii. Writes predictions (BraTS labels 0/1/2/4,
+    python infer.py --cases <folder of case folders> --ckpt checkpoints/nora_v3_last.pt checkpoints/baseline_v3_last.pt
+Each case folder holds <id>_{t1,t1ce,t2,flair}[,_seg].nii[.gz] (co-registered, skull-stripped, 1 mm, BraTS space); a
+missing sequence file is allowed and is marked unavailable. Writes predictions (BraTS labels 0/1/2/4,
 original 240x240x155 space), Shapley / abnormality maps (NORA, .npz), per-case metrics JSON and a comparison PNG.
 """
 import argparse
@@ -25,11 +26,25 @@ def load_case(case_dir):
     import nibabel as nib
     name = os.path.basename(case_dir.rstrip("/\\"))
     entry = data.find_cases(os.path.dirname(case_dir.rstrip("/\\"))).get(name)
-    if entry is None:  # no seg file -> modalities only
+    if entry is None:  # any folder name, label file optional, sequences may be missing
         files = glob.glob(os.path.join(case_dir, "*.nii*"))
-        entry = {m: next(f for f in files if os.path.basename(f).lower().split(".")[0].endswith("_" + m)) for m in data.MODALITIES}
-    ref = nib.load(entry["flair"])
-    vols = [np.asarray(nib.load(entry[m]).dataobj, dtype=np.float32) for m in data.MODALITIES]
+        stem = lambda f: os.path.basename(f).lower().split(".")[0]
+        entry = {}
+        for m in data.MODALITIES:
+            hit = [f for f in files if stem(f).endswith("_" + m)]
+            if hit:
+                entry[m] = hit[0]
+        seg = [f for f in files if "seg" in stem(f)]
+        if seg:
+            entry["seg"] = seg[0]
+    have = [m for m in data.MODALITIES if m in entry]
+    if not have:
+        raise SystemExit(f"{case_dir}: no *_t1/_t1ce/_t2/_flair.nii[.gz] files found")
+    if len(have) < len(data.MODALITIES):
+        print(f"{name}: missing {[m for m in data.MODALITIES if m not in entry]} -> marked unavailable")
+    ref = nib.load(entry["flair" if "flair" in entry else have[0]])
+    vols = [np.asarray(nib.load(entry[m]).dataobj, dtype=np.float32) if m in entry else np.zeros(ref.shape, np.float32)
+            for m in data.MODALITIES]
     seg = np.asarray(nib.load(entry["seg"]).dataobj).astype(np.uint8) if "seg" in entry else None
     img, seg, avail, sl = data.preprocess_arrays(vols, seg)
     return img, seg, avail, sl, ref
@@ -59,7 +74,8 @@ def main():
     import nibabel as nib
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-    case_dirs = sorted(d for d in glob.glob(os.path.join(a.cases, "BraTS20_Training_*")) if os.path.isdir(d)) or [a.cases]
+    case_dirs = sorted(d for d in glob.glob(os.path.join(a.cases, "*"))
+                       if os.path.isdir(d) and glob.glob(os.path.join(d, "*.nii*"))) or [a.cases]
     models = {}
     for ck in a.ckpt:
         state = torch.load(ck, map_location="cpu", weights_only=False)
