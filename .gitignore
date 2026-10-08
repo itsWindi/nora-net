@@ -1,0 +1,31 @@
+# data and models
+data/
+data_local/
+data_sample/
+*.nii
+*.nii.gz
+*.npy
+*.npz
+*.pt
+*.pth
+runs/
+
+# environments and caches
+.venv*/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# local tools and secrets
+tools/tectonic/
+.mcp.json
+.claude/
+kaggle.json
+
+# LaTeX by-products
+*.aux
+*.blg
+*.bbl
+*.log
+*.out
+*.synctex.gz
